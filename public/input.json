@@ -1,0 +1,689 @@
+{
+  "starterCode": "",
+  "events": [
+    {
+      "time": 1462,
+      "code": "f",
+      "cursor": {
+        "line": 0,
+        "ch": 1
+      },
+      "timestamp": 1751999074455
+    },
+    {
+      "time": 1586,
+      "code": "fu",
+      "cursor": {
+        "line": 0,
+        "ch": 2
+      },
+      "timestamp": 1751999074579
+    },
+    {
+      "time": 1829,
+      "code": "fun",
+      "cursor": {
+        "line": 0,
+        "ch": 3
+      },
+      "timestamp": 1751999074822
+    },
+    {
+      "time": 1932,
+      "code": "func",
+      "cursor": {
+        "line": 0,
+        "ch": 4
+      },
+      "timestamp": 1751999074925
+    },
+    {
+      "time": 2303,
+      "code": "function",
+      "cursor": {
+        "line": 0,
+        "ch": 8
+      },
+      "timestamp": 1751999075296
+    },
+    {
+      "time": 2726,
+      "code": "function ",
+      "cursor": {
+        "line": 0,
+        "ch": 9
+      },
+      "timestamp": 1751999075719
+    },
+    {
+      "time": 3271,
+      "code": "function h",
+      "cursor": {
+        "line": 0,
+        "ch": 10
+      },
+      "timestamp": 1751999076264
+    },
+    {
+      "time": 3426,
+      "code": "function he",
+      "cursor": {
+        "line": 0,
+        "ch": 11
+      },
+      "timestamp": 1751999076419
+    },
+    {
+      "time": 3647,
+      "code": "function hel",
+      "cursor": {
+        "line": 0,
+        "ch": 12
+      },
+      "timestamp": 1751999076640
+    },
+    {
+      "time": 3775,
+      "code": "function hell",
+      "cursor": {
+        "line": 0,
+        "ch": 13
+      },
+      "timestamp": 1751999076768
+    },
+    {
+      "time": 3996,
+      "code": "function hello",
+      "cursor": {
+        "line": 0,
+        "ch": 14
+      },
+      "timestamp": 1751999076989
+    },
+    {
+      "time": 4223,
+      "code": "function helloe",
+      "cursor": {
+        "line": 0,
+        "ch": 15
+      },
+      "timestamp": 1751999077216
+    },
+    {
+      "time": 4737,
+      "code": "function hello",
+      "cursor": {
+        "line": 0,
+        "ch": 14
+      },
+      "timestamp": 1751999077730
+    },
+    {
+      "time": 5511,
+      "code": "function hello()",
+      "cursor": {
+        "line": 0,
+        "ch": 15
+      },
+      "timestamp": 1751999078504
+    },
+    {
+      "time": 6738,
+      "code": "function hello(){}",
+      "cursor": {
+        "line": 0,
+        "ch": 17
+      },
+      "timestamp": 1751999079731
+    },
+    {
+      "time": 7315,
+      "code": "function hello(){\n    \n}",
+      "cursor": {
+        "line": 1,
+        "ch": 4
+      },
+      "timestamp": 1751999080308
+    },
+    {
+      "time": 8597,
+      "code": "function hello(){\n    o\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 5
+      },
+      "timestamp": 1751999081590
+    },
+    {
+      "time": 8986,
+      "code": "function hello(){\n    \n}",
+      "cursor": {
+        "line": 1,
+        "ch": 4
+      },
+      "timestamp": 1751999081979
+    },
+    {
+      "time": 9124,
+      "code": "function hello(){\n    c\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 5
+      },
+      "timestamp": 1751999082117
+    },
+    {
+      "time": 9239,
+      "code": "function hello(){\n    co\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 6
+      },
+      "timestamp": 1751999082232
+    },
+    {
+      "time": 9523,
+      "code": "function hello(){\n    cos\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 7
+      },
+      "timestamp": 1751999082516
+    },
+    {
+      "time": 10171,
+      "code": "function hello(){\n    console\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 11
+      },
+      "timestamp": 1751999083164
+    },
+    {
+      "time": 11033,
+      "code": "function hello(){\n    console.\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 12
+      },
+      "timestamp": 1751999084026
+    },
+    {
+      "time": 11455,
+      "code": "function hello(){\n    console.l\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 13
+      },
+      "timestamp": 1751999084448
+    },
+    {
+      "time": 11664,
+      "code": "function hello(){\n    console.lo\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 14
+      },
+      "timestamp": 1751999084657
+    },
+    {
+      "time": 11939,
+      "code": "function hello(){\n    console.log\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 15
+      },
+      "timestamp": 1751999084932
+    },
+    {
+      "time": 12459,
+      "code": "function hello(){\n    console.log()\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 16
+      },
+      "timestamp": 1751999085452
+    },
+    {
+      "time": 15031,
+      "code": "function hello(){\n    console.log(``)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 17
+      },
+      "timestamp": 1751999088024
+    },
+    {
+      "time": 15888,
+      "code": "function hello(){\n    console.log(`H`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 18
+      },
+      "timestamp": 1751999088881
+    },
+    {
+      "time": 16175,
+      "code": "function hello(){\n    console.log(`He`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 19
+      },
+      "timestamp": 1751999089168
+    },
+    {
+      "time": 16326,
+      "code": "function hello(){\n    console.log(`Hel`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 20
+      },
+      "timestamp": 1751999089319
+    },
+    {
+      "time": 16462,
+      "code": "function hello(){\n    console.log(`Hell`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 21
+      },
+      "timestamp": 1751999089455
+    },
+    {
+      "time": 16676,
+      "code": "function hello(){\n    console.log(`Hello`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 22
+      },
+      "timestamp": 1751999089669
+    },
+    {
+      "time": 17457,
+      "code": "function hello(){\n    console.log(`Hello `)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 23
+      },
+      "timestamp": 1751999090450
+    },
+    {
+      "time": 21305,
+      "code": "function hello(){\n    console.log(`Hello $`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 24
+      },
+      "timestamp": 1751999094298
+    },
+    {
+      "time": 23058,
+      "code": "function hello(){\n    console.log(`Hello ${}`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 25
+      },
+      "timestamp": 1751999096051
+    },
+    {
+      "time": 24343,
+      "code": "function hello(){\n    console.log(`Hello ${n}`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 26
+      },
+      "timestamp": 1751999097336
+    },
+    {
+      "time": 24397,
+      "code": "function hello(){\n    console.log(`Hello ${na}`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 27
+      },
+      "timestamp": 1751999097390
+    },
+    {
+      "time": 24584,
+      "code": "function hello(){\n    console.log(`Hello ${nam}`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 28
+      },
+      "timestamp": 1751999097577
+    },
+    {
+      "time": 24666,
+      "code": "function hello(){\n    console.log(`Hello ${name}`)\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 29
+      },
+      "timestamp": 1751999097659
+    },
+    {
+      "time": 26751,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}",
+      "cursor": {
+        "line": 1,
+        "ch": 33
+      },
+      "timestamp": 1751999099744
+    },
+    {
+      "time": 28273,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n",
+      "cursor": {
+        "line": 3,
+        "ch": 0
+      },
+      "timestamp": 1751999101266
+    },
+    {
+      "time": 28559,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\n",
+      "cursor": {
+        "line": 4,
+        "ch": 0
+      },
+      "timestamp": 1751999101552
+    },
+    {
+      "time": 29246,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nl",
+      "cursor": {
+        "line": 4,
+        "ch": 1
+      },
+      "timestamp": 1751999102239
+    },
+    {
+      "time": 29373,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nle",
+      "cursor": {
+        "line": 4,
+        "ch": 2
+      },
+      "timestamp": 1751999102366
+    },
+    {
+      "time": 29616,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet",
+      "cursor": {
+        "line": 4,
+        "ch": 3
+      },
+      "timestamp": 1751999102609
+    },
+    {
+      "time": 29717,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet ",
+      "cursor": {
+        "line": 4,
+        "ch": 4
+      },
+      "timestamp": 1751999102710
+    },
+    {
+      "time": 29948,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet n",
+      "cursor": {
+        "line": 4,
+        "ch": 5
+      },
+      "timestamp": 1751999102941
+    },
+    {
+      "time": 30072,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet na",
+      "cursor": {
+        "line": 4,
+        "ch": 6
+      },
+      "timestamp": 1751999103065
+    },
+    {
+      "time": 30200,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet nam",
+      "cursor": {
+        "line": 4,
+        "ch": 7
+      },
+      "timestamp": 1751999103193
+    },
+    {
+      "time": 30324,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name",
+      "cursor": {
+        "line": 4,
+        "ch": 8
+      },
+      "timestamp": 1751999103317
+    },
+    {
+      "time": 31100,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name ",
+      "cursor": {
+        "line": 4,
+        "ch": 9
+      },
+      "timestamp": 1751999104093
+    },
+    {
+      "time": 31325,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name =",
+      "cursor": {
+        "line": 4,
+        "ch": 10
+      },
+      "timestamp": 1751999104318
+    },
+    {
+      "time": 31401,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = ",
+      "cursor": {
+        "line": 4,
+        "ch": 11
+      },
+      "timestamp": 1751999104394
+    },
+    {
+      "time": 33027,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = i",
+      "cursor": {
+        "line": 4,
+        "ch": 12
+      },
+      "timestamp": 1751999106020
+    },
+    {
+      "time": 33204,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = in",
+      "cursor": {
+        "line": 4,
+        "ch": 13
+      },
+      "timestamp": 1751999106197
+    },
+    {
+      "time": 33443,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = inp",
+      "cursor": {
+        "line": 4,
+        "ch": 14
+      },
+      "timestamp": 1751999106436
+    },
+    {
+      "time": 33783,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = inpt",
+      "cursor": {
+        "line": 4,
+        "ch": 15
+      },
+      "timestamp": 1751999106776
+    },
+    {
+      "time": 34151,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = inp",
+      "cursor": {
+        "line": 4,
+        "ch": 14
+      },
+      "timestamp": 1751999107144
+    },
+    {
+      "time": 34415,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = inpu",
+      "cursor": {
+        "line": 4,
+        "ch": 15
+      },
+      "timestamp": 1751999107408
+    },
+    {
+      "time": 34511,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input",
+      "cursor": {
+        "line": 4,
+        "ch": 16
+      },
+      "timestamp": 1751999107504
+    },
+    {
+      "time": 35169,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input()",
+      "cursor": {
+        "line": 4,
+        "ch": 17
+      },
+      "timestamp": 1751999108162
+    },
+    {
+      "time": 36150,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();",
+      "cursor": {
+        "line": 4,
+        "ch": 19
+      },
+      "timestamp": 1751999109143
+    },
+    {
+      "time": 36429,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n",
+      "cursor": {
+        "line": 5,
+        "ch": 0
+      },
+      "timestamp": 1751999109422
+    },
+    {
+      "time": 44236,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n",
+      "cursor": {
+        "line": 5,
+        "ch": 0
+      },
+      "input": "Santhosh",
+      "output": "> Input #1: Santhosh",
+      "runExecuted": true,
+      "timestamp": 1751999117229
+    },
+    {
+      "time": 47394,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();",
+      "cursor": {
+        "line": 4,
+        "ch": 19
+      },
+      "timestamp": 1751999120387
+    },
+    {
+      "time": 48867,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n",
+      "cursor": {
+        "line": 5,
+        "ch": 0
+      },
+      "timestamp": 1751999121860
+    },
+    {
+      "time": 49040,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\n",
+      "cursor": {
+        "line": 6,
+        "ch": 0
+      },
+      "timestamp": 1751999122033
+    },
+    {
+      "time": 49634,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nh",
+      "cursor": {
+        "line": 6,
+        "ch": 1
+      },
+      "timestamp": 1751999122627
+    },
+    {
+      "time": 49817,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhe",
+      "cursor": {
+        "line": 6,
+        "ch": 2
+      },
+      "timestamp": 1751999122810
+    },
+    {
+      "time": 50014,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhel",
+      "cursor": {
+        "line": 6,
+        "ch": 3
+      },
+      "timestamp": 1751999123007
+    },
+    {
+      "time": 50159,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhell",
+      "cursor": {
+        "line": 6,
+        "ch": 4
+      },
+      "timestamp": 1751999123152
+    },
+    {
+      "time": 50683,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhello",
+      "cursor": {
+        "line": 6,
+        "ch": 5
+      },
+      "timestamp": 1751999123676
+    },
+    {
+      "time": 51309,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhello()",
+      "cursor": {
+        "line": 6,
+        "ch": 6
+      },
+      "timestamp": 1751999124302
+    },
+    {
+      "time": 52741,
+      "code": "function hello(){\n    console.log(`Hello ${name}`);\n}\n\nlet name = input();\n\nhello()",
+      "cursor": {
+        "line": 6,
+        "ch": 6
+      },
+      "input": "Santhosh",
+      "output": "> Input #1: Santhosh\nHello Santhosh",
+      "runExecuted": true,
+      "timestamp": 1751999125734
+    }
+  ],
+  "totalEvents": 75,
+  "duration": 52741,
+  "recordedAt": "2025-07-08T18:25:28.476Z"
+}

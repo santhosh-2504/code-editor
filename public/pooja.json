@@ -1,0 +1,524 @@
+{
+  "starterCode": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}",
+  "events": [
+    {
+      "time": 1619,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n",
+      "cursor": {
+        "line": 4,
+        "ch": 0
+      },
+      "timestamp": 1751997700125
+    },
+    {
+      "time": 1781,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\n",
+      "cursor": {
+        "line": 5,
+        "ch": 0
+      },
+      "timestamp": 1751997700287
+    },
+    {
+      "time": 2536,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nf",
+      "cursor": {
+        "line": 5,
+        "ch": 1
+      },
+      "timestamp": 1751997701042
+    },
+    {
+      "time": 2648,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfu",
+      "cursor": {
+        "line": 5,
+        "ch": 2
+      },
+      "timestamp": 1751997701154
+    },
+    {
+      "time": 2808,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfun",
+      "cursor": {
+        "line": 5,
+        "ch": 3
+      },
+      "timestamp": 1751997701314
+    },
+    {
+      "time": 2941,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunc",
+      "cursor": {
+        "line": 5,
+        "ch": 4
+      },
+      "timestamp": 1751997701447
+    },
+    {
+      "time": 3181,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunct",
+      "cursor": {
+        "line": 5,
+        "ch": 5
+      },
+      "timestamp": 1751997701687
+    },
+    {
+      "time": 3259,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfuncti",
+      "cursor": {
+        "line": 5,
+        "ch": 6
+      },
+      "timestamp": 1751997701765
+    },
+    {
+      "time": 3433,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunctio",
+      "cursor": {
+        "line": 5,
+        "ch": 7
+      },
+      "timestamp": 1751997701939
+    },
+    {
+      "time": 3602,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction",
+      "cursor": {
+        "line": 5,
+        "ch": 8
+      },
+      "timestamp": 1751997702108
+    },
+    {
+      "time": 3772,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction ",
+      "cursor": {
+        "line": 5,
+        "ch": 9
+      },
+      "timestamp": 1751997702278
+    },
+    {
+      "time": 4143,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction L",
+      "cursor": {
+        "line": 5,
+        "ch": 10
+      },
+      "timestamp": 1751997702649
+    },
+    {
+      "time": 4319,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction Lo",
+      "cursor": {
+        "line": 5,
+        "ch": 11
+      },
+      "timestamp": 1751997702825
+    },
+    {
+      "time": 4545,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction Lov",
+      "cursor": {
+        "line": 5,
+        "ch": 12
+      },
+      "timestamp": 1751997703051
+    },
+    {
+      "time": 4631,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction Love",
+      "cursor": {
+        "line": 5,
+        "ch": 13
+      },
+      "timestamp": 1751997703137
+    },
+    {
+      "time": 5079,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LoveP",
+      "cursor": {
+        "line": 5,
+        "ch": 14
+      },
+      "timestamp": 1751997703585
+    },
+    {
+      "time": 5292,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePo",
+      "cursor": {
+        "line": 5,
+        "ch": 15
+      },
+      "timestamp": 1751997703798
+    },
+    {
+      "time": 5435,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePoo",
+      "cursor": {
+        "line": 5,
+        "ch": 16
+      },
+      "timestamp": 1751997703941
+    },
+    {
+      "time": 5711,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePook",
+      "cursor": {
+        "line": 5,
+        "ch": 17
+      },
+      "timestamp": 1751997704217
+    },
+    {
+      "time": 7109,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePoo",
+      "cursor": {
+        "line": 5,
+        "ch": 16
+      },
+      "timestamp": 1751997705615
+    },
+    {
+      "time": 7421,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooj",
+      "cursor": {
+        "line": 5,
+        "ch": 17
+      },
+      "timestamp": 1751997705927
+    },
+    {
+      "time": 7501,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja",
+      "cursor": {
+        "line": 5,
+        "ch": 18
+      },
+      "timestamp": 1751997706007
+    },
+    {
+      "time": 8268,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja()",
+      "cursor": {
+        "line": 5,
+        "ch": 19
+      },
+      "timestamp": 1751997706774
+    },
+    {
+      "time": 9482,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){}",
+      "cursor": {
+        "line": 5,
+        "ch": 21
+      },
+      "timestamp": 1751997707988
+    },
+    {
+      "time": 9803,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  \n}",
+      "cursor": {
+        "line": 6,
+        "ch": 2
+      },
+      "timestamp": 1751997708309
+    },
+    {
+      "time": 10786,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  c\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 3
+      },
+      "timestamp": 1751997709292
+    },
+    {
+      "time": 10853,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  co\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 4
+      },
+      "timestamp": 1751997709359
+    },
+    {
+      "time": 11123,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  cos\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 5
+      },
+      "timestamp": 1751997709629
+    },
+    {
+      "time": 12672,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 9
+      },
+      "timestamp": 1751997711178
+    },
+    {
+      "time": 13216,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 10
+      },
+      "timestamp": 1751997711722
+    },
+    {
+      "time": 13459,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.l\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 11
+      },
+      "timestamp": 1751997711965
+    },
+    {
+      "time": 13659,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.lo\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 12
+      },
+      "timestamp": 1751997712165
+    },
+    {
+      "time": 14025,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 13
+      },
+      "timestamp": 1751997712531
+    },
+    {
+      "time": 14597,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log()\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 14
+      },
+      "timestamp": 1751997713103
+    },
+    {
+      "time": 15421,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 15
+      },
+      "timestamp": 1751997713927
+    },
+    {
+      "time": 16594,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"H\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 16
+      },
+      "timestamp": 1751997715100
+    },
+    {
+      "time": 16948,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"He\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 17
+      },
+      "timestamp": 1751997715454
+    },
+    {
+      "time": 17140,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hel\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 18
+      },
+      "timestamp": 1751997715646
+    },
+    {
+      "time": 17268,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hell\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 19
+      },
+      "timestamp": 1751997715774
+    },
+    {
+      "time": 17458,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 20
+      },
+      "timestamp": 1751997715964
+    },
+    {
+      "time": 18290,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello,\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 21
+      },
+      "timestamp": 1751997716796
+    },
+    {
+      "time": 18449,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, \")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 22
+      },
+      "timestamp": 1751997716955
+    },
+    {
+      "time": 18891,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, P\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 23
+      },
+      "timestamp": 1751997717397
+    },
+    {
+      "time": 19413,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Po\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 24
+      },
+      "timestamp": 1751997717919
+    },
+    {
+      "time": 19553,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Poo\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 25
+      },
+      "timestamp": 1751997718059
+    },
+    {
+      "time": 19769,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooj\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 26
+      },
+      "timestamp": 1751997718275
+    },
+    {
+      "time": 19902,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 27
+      },
+      "timestamp": 1751997718408
+    },
+    {
+      "time": 20602,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\")\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 28
+      },
+      "timestamp": 1751997719108
+    },
+    {
+      "time": 22327,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}",
+      "cursor": {
+        "line": 6,
+        "ch": 31
+      },
+      "timestamp": 1751997720833
+    },
+    {
+      "time": 23423,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n",
+      "cursor": {
+        "line": 8,
+        "ch": 0
+      },
+      "timestamp": 1751997721929
+    },
+    {
+      "time": 23702,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\n",
+      "cursor": {
+        "line": 9,
+        "ch": 0
+      },
+      "timestamp": 1751997722208
+    },
+    {
+      "time": 25085,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nL",
+      "cursor": {
+        "line": 9,
+        "ch": 1
+      },
+      "timestamp": 1751997723591
+    },
+    {
+      "time": 25268,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nLo",
+      "cursor": {
+        "line": 9,
+        "ch": 2
+      },
+      "timestamp": 1751997723774
+    },
+    {
+      "time": 25818,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nLovePooja",
+      "cursor": {
+        "line": 9,
+        "ch": 9
+      },
+      "timestamp": 1751997724324
+    },
+    {
+      "time": 26506,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nLovePooja()",
+      "cursor": {
+        "line": 9,
+        "ch": 10
+      },
+      "timestamp": 1751997725012
+    },
+    {
+      "time": 27427,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nLovePooja();",
+      "cursor": {
+        "line": 9,
+        "ch": 12
+      },
+      "timestamp": 1751997725933
+    },
+    {
+      "time": 29293,
+      "code": "// Start typing your JavaScript code here...\nfunction hello() {\n  console.log(\"Hello, World!\");\n}\n\nfunction LovePooja(){\n  console.log(\"Hello, Pooja!\");\n}\n\nLovePooja();",
+      "cursor": {
+        "line": 9,
+        "ch": 12
+      },
+      "input": "",
+      "output": "Hello, Pooja!",
+      "runExecuted": true,
+      "timestamp": 1751997727799
+    }
+  ],
+  "totalEvents": 57,
+  "duration": 29293,
+  "recordedAt": "2025-07-08T18:02:11.541Z"
+}
