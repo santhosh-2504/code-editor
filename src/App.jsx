@@ -6,7 +6,7 @@ export default function App() {
   const [lessonData, setLessonData] = useState(null);
 
   useEffect(() => {
-    fetch("/input.json")
+    fetch("/test.json")
       .then((res) => res.json())
       .then((data) => {
         setLessonData(data);

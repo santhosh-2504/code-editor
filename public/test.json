@@ -1,0 +1,3435 @@
+{
+  "starterCode": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);",
+  "events": [
+    {
+      "time": 3406,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117352311
+    },
+    {
+      "time": 3406,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n",
+      "cursor": {
+        "line": 12,
+        "ch": 0
+      },
+      "timestamp": 1752117352311
+    },
+    {
+      "time": 3779,
+      "type": "scroll",
+      "scrollTop": 20,
+      "scrollLeft": 0,
+      "timestamp": 1752117352684
+    },
+    {
+      "time": 3779,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n",
+      "cursor": {
+        "line": 13,
+        "ch": 0
+      },
+      "timestamp": 1752117352684
+    },
+    {
+      "time": 3921,
+      "type": "scroll",
+      "scrollTop": 42,
+      "scrollLeft": 0,
+      "timestamp": 1752117352826
+    },
+    {
+      "time": 3921,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n",
+      "cursor": {
+        "line": 14,
+        "ch": 0
+      },
+      "timestamp": 1752117352826
+    },
+    {
+      "time": 4261,
+      "type": "scroll",
+      "scrollTop": 64,
+      "scrollLeft": 0,
+      "timestamp": 1752117353166
+    },
+    {
+      "time": 4262,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n",
+      "cursor": {
+        "line": 15,
+        "ch": 0
+      },
+      "timestamp": 1752117353167
+    },
+    {
+      "time": 4563,
+      "type": "scroll",
+      "scrollTop": 86,
+      "scrollLeft": 0,
+      "timestamp": 1752117353468
+    },
+    {
+      "time": 4563,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n",
+      "cursor": {
+        "line": 16,
+        "ch": 0
+      },
+      "timestamp": 1752117353468
+    },
+    {
+      "time": 6049,
+      "type": "scroll",
+      "scrollTop": 85,
+      "scrollLeft": 0,
+      "timestamp": 1752117354954
+    },
+    {
+      "time": 6069,
+      "type": "scroll",
+      "scrollTop": 79,
+      "scrollLeft": 0,
+      "timestamp": 1752117354974
+    },
+    {
+      "time": 6085,
+      "type": "scroll",
+      "scrollTop": 71,
+      "scrollLeft": 0,
+      "timestamp": 1752117354990
+    },
+    {
+      "time": 6100,
+      "type": "scroll",
+      "scrollTop": 61,
+      "scrollLeft": 0,
+      "timestamp": 1752117355005
+    },
+    {
+      "time": 6119,
+      "type": "scroll",
+      "scrollTop": 55,
+      "scrollLeft": 0,
+      "timestamp": 1752117355024
+    },
+    {
+      "time": 6134,
+      "type": "scroll",
+      "scrollTop": 45,
+      "scrollLeft": 0,
+      "timestamp": 1752117355039
+    },
+    {
+      "time": 6150,
+      "type": "scroll",
+      "scrollTop": 39,
+      "scrollLeft": 0,
+      "timestamp": 1752117355055
+    },
+    {
+      "time": 6170,
+      "type": "scroll",
+      "scrollTop": 31,
+      "scrollLeft": 0,
+      "timestamp": 1752117355075
+    },
+    {
+      "time": 6183,
+      "type": "scroll",
+      "scrollTop": 28,
+      "scrollLeft": 0,
+      "timestamp": 1752117355088
+    },
+    {
+      "time": 6200,
+      "type": "scroll",
+      "scrollTop": 25,
+      "scrollLeft": 0,
+      "timestamp": 1752117355105
+    },
+    {
+      "time": 6218,
+      "type": "scroll",
+      "scrollTop": 22,
+      "scrollLeft": 0,
+      "timestamp": 1752117355123
+    },
+    {
+      "time": 6250,
+      "type": "scroll",
+      "scrollTop": 19,
+      "scrollLeft": 0,
+      "timestamp": 1752117355155
+    },
+    {
+      "time": 6266,
+      "type": "scroll",
+      "scrollTop": 18,
+      "scrollLeft": 0,
+      "timestamp": 1752117355171
+    },
+    {
+      "time": 6283,
+      "type": "scroll",
+      "scrollTop": 17,
+      "scrollLeft": 0,
+      "timestamp": 1752117355188
+    },
+    {
+      "time": 6304,
+      "type": "scroll",
+      "scrollTop": 16,
+      "scrollLeft": 0,
+      "timestamp": 1752117355209
+    },
+    {
+      "time": 6317,
+      "type": "scroll",
+      "scrollTop": 15,
+      "scrollLeft": 0,
+      "timestamp": 1752117355222
+    },
+    {
+      "time": 6334,
+      "type": "scroll",
+      "scrollTop": 14,
+      "scrollLeft": 0,
+      "timestamp": 1752117355239
+    },
+    {
+      "time": 7150,
+      "type": "scroll",
+      "scrollTop": 13,
+      "scrollLeft": 0,
+      "timestamp": 1752117356055
+    },
+    {
+      "time": 7167,
+      "type": "scroll",
+      "scrollTop": 3,
+      "scrollLeft": 0,
+      "timestamp": 1752117356072
+    },
+    {
+      "time": 7202,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117356107
+    },
+    {
+      "time": 7815,
+      "type": "scroll",
+      "scrollTop": 1,
+      "scrollLeft": 0,
+      "timestamp": 1752117356720
+    },
+    {
+      "time": 7837,
+      "type": "scroll",
+      "scrollTop": 36,
+      "scrollLeft": 0,
+      "timestamp": 1752117356742
+    },
+    {
+      "time": 7849,
+      "type": "scroll",
+      "scrollTop": 61,
+      "scrollLeft": 0,
+      "timestamp": 1752117356754
+    },
+    {
+      "time": 7867,
+      "type": "scroll",
+      "scrollTop": 103,
+      "scrollLeft": 0,
+      "timestamp": 1752117356772
+    },
+    {
+      "time": 7884,
+      "type": "scroll",
+      "scrollTop": 122,
+      "scrollLeft": 0,
+      "timestamp": 1752117356789
+    },
+    {
+      "time": 7915,
+      "type": "scroll",
+      "scrollTop": 147,
+      "scrollLeft": 0,
+      "timestamp": 1752117356820
+    },
+    {
+      "time": 7932,
+      "type": "scroll",
+      "scrollTop": 167,
+      "scrollLeft": 0,
+      "timestamp": 1752117356837
+    },
+    {
+      "time": 7949,
+      "type": "scroll",
+      "scrollTop": 184,
+      "scrollLeft": 0,
+      "timestamp": 1752117356854
+    },
+    {
+      "time": 7966,
+      "type": "scroll",
+      "scrollTop": 199,
+      "scrollLeft": 0,
+      "timestamp": 1752117356871
+    },
+    {
+      "time": 7988,
+      "type": "scroll",
+      "scrollTop": 212,
+      "scrollLeft": 0,
+      "timestamp": 1752117356893
+    },
+    {
+      "time": 7999,
+      "type": "scroll",
+      "scrollTop": 224,
+      "scrollLeft": 0,
+      "timestamp": 1752117356904
+    },
+    {
+      "time": 8016,
+      "type": "scroll",
+      "scrollTop": 234,
+      "scrollLeft": 0,
+      "timestamp": 1752117356921
+    },
+    {
+      "time": 8038,
+      "type": "scroll",
+      "scrollTop": 244,
+      "scrollLeft": 0,
+      "timestamp": 1752117356943
+    },
+    {
+      "time": 8050,
+      "type": "scroll",
+      "scrollTop": 253,
+      "scrollLeft": 0,
+      "timestamp": 1752117356955
+    },
+    {
+      "time": 8071,
+      "type": "scroll",
+      "scrollTop": 261,
+      "scrollLeft": 0,
+      "timestamp": 1752117356976
+    },
+    {
+      "time": 8087,
+      "type": "scroll",
+      "scrollTop": 269,
+      "scrollLeft": 0,
+      "timestamp": 1752117356992
+    },
+    {
+      "time": 8099,
+      "type": "scroll",
+      "scrollTop": 276,
+      "scrollLeft": 0,
+      "timestamp": 1752117357004
+    },
+    {
+      "time": 8116,
+      "type": "scroll",
+      "scrollTop": 283,
+      "scrollLeft": 0,
+      "timestamp": 1752117357021
+    },
+    {
+      "time": 8133,
+      "type": "scroll",
+      "scrollTop": 290,
+      "scrollLeft": 0,
+      "timestamp": 1752117357038
+    },
+    {
+      "time": 8152,
+      "type": "scroll",
+      "scrollTop": 296,
+      "scrollLeft": 0,
+      "timestamp": 1752117357057
+    },
+    {
+      "time": 8167,
+      "type": "scroll",
+      "scrollTop": 302,
+      "scrollLeft": 0,
+      "timestamp": 1752117357072
+    },
+    {
+      "time": 8183,
+      "type": "scroll",
+      "scrollTop": 307,
+      "scrollLeft": 0,
+      "timestamp": 1752117357088
+    },
+    {
+      "time": 8201,
+      "type": "scroll",
+      "scrollTop": 312,
+      "scrollLeft": 0,
+      "timestamp": 1752117357106
+    },
+    {
+      "time": 8216,
+      "type": "scroll",
+      "scrollTop": 317,
+      "scrollLeft": 0,
+      "timestamp": 1752117357121
+    },
+    {
+      "time": 8233,
+      "type": "scroll",
+      "scrollTop": 322,
+      "scrollLeft": 0,
+      "timestamp": 1752117357138
+    },
+    {
+      "time": 8252,
+      "type": "scroll",
+      "scrollTop": 327,
+      "scrollLeft": 0,
+      "timestamp": 1752117357157
+    },
+    {
+      "time": 8266,
+      "type": "scroll",
+      "scrollTop": 332,
+      "scrollLeft": 0,
+      "timestamp": 1752117357171
+    },
+    {
+      "time": 8283,
+      "type": "scroll",
+      "scrollTop": 336,
+      "scrollLeft": 0,
+      "timestamp": 1752117357188
+    },
+    {
+      "time": 8302,
+      "type": "scroll",
+      "scrollTop": 340,
+      "scrollLeft": 0,
+      "timestamp": 1752117357207
+    },
+    {
+      "time": 8316,
+      "type": "scroll",
+      "scrollTop": 344,
+      "scrollLeft": 0,
+      "timestamp": 1752117357221
+    },
+    {
+      "time": 8335,
+      "type": "scroll",
+      "scrollTop": 348,
+      "scrollLeft": 0,
+      "timestamp": 1752117357240
+    },
+    {
+      "time": 8351,
+      "type": "scroll",
+      "scrollTop": 352,
+      "scrollLeft": 0,
+      "timestamp": 1752117357256
+    },
+    {
+      "time": 8598,
+      "type": "scroll",
+      "scrollTop": 344,
+      "scrollLeft": 0,
+      "timestamp": 1752117357503
+    },
+    {
+      "time": 8619,
+      "type": "scroll",
+      "scrollTop": 334,
+      "scrollLeft": 0,
+      "timestamp": 1752117357524
+    },
+    {
+      "time": 8632,
+      "type": "scroll",
+      "scrollTop": 325,
+      "scrollLeft": 0,
+      "timestamp": 1752117357537
+    },
+    {
+      "time": 8649,
+      "type": "scroll",
+      "scrollTop": 316,
+      "scrollLeft": 0,
+      "timestamp": 1752117357554
+    },
+    {
+      "time": 8668,
+      "type": "scroll",
+      "scrollTop": 311,
+      "scrollLeft": 0,
+      "timestamp": 1752117357573
+    },
+    {
+      "time": 8684,
+      "type": "scroll",
+      "scrollTop": 306,
+      "scrollLeft": 0,
+      "timestamp": 1752117357589
+    },
+    {
+      "time": 8701,
+      "type": "scroll",
+      "scrollTop": 301,
+      "scrollLeft": 0,
+      "timestamp": 1752117357606
+    },
+    {
+      "time": 8716,
+      "type": "scroll",
+      "scrollTop": 299,
+      "scrollLeft": 0,
+      "timestamp": 1752117357621
+    },
+    {
+      "time": 8732,
+      "type": "scroll",
+      "scrollTop": 297,
+      "scrollLeft": 0,
+      "timestamp": 1752117357637
+    },
+    {
+      "time": 8749,
+      "type": "scroll",
+      "scrollTop": 296,
+      "scrollLeft": 0,
+      "timestamp": 1752117357654
+    },
+    {
+      "time": 9270,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358175
+    },
+    {
+      "time": 9270,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n",
+      "cursor": {
+        "line": 17,
+        "ch": 0
+      },
+      "timestamp": 1752117358175
+    },
+    {
+      "time": 9760,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358665
+    },
+    {
+      "time": 9760,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 18,
+        "ch": 0
+      },
+      "timestamp": 1752117358665
+    },
+    {
+      "time": 9790,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358695
+    },
+    {
+      "time": 9790,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 19,
+        "ch": 0
+      },
+      "timestamp": 1752117358695
+    },
+    {
+      "time": 9822,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358727
+    },
+    {
+      "time": 9823,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 20,
+        "ch": 0
+      },
+      "timestamp": 1752117358728
+    },
+    {
+      "time": 9850,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358755
+    },
+    {
+      "time": 9850,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 21,
+        "ch": 0
+      },
+      "timestamp": 1752117358755
+    },
+    {
+      "time": 9877,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358782
+    },
+    {
+      "time": 9877,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 22,
+        "ch": 0
+      },
+      "timestamp": 1752117358782
+    },
+    {
+      "time": 9907,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358812
+    },
+    {
+      "time": 9907,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 23,
+        "ch": 0
+      },
+      "timestamp": 1752117358812
+    },
+    {
+      "time": 9937,
+      "type": "scroll",
+      "scrollTop": 264,
+      "scrollLeft": 0,
+      "timestamp": 1752117358842
+    },
+    {
+      "time": 9938,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 24,
+        "ch": 0
+      },
+      "timestamp": 1752117358843
+    },
+    {
+      "time": 9970,
+      "type": "scroll",
+      "scrollTop": 284,
+      "scrollLeft": 0,
+      "timestamp": 1752117358875
+    },
+    {
+      "time": 9971,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "cursor": {
+        "line": 25,
+        "ch": 0
+      },
+      "timestamp": 1752117358876
+    },
+    {
+      "time": 10649,
+      "type": "scroll",
+      "scrollTop": 266,
+      "scrollLeft": 0,
+      "timestamp": 1752117359554
+    },
+    {
+      "time": 10667,
+      "type": "scroll",
+      "scrollTop": 251,
+      "scrollLeft": 0,
+      "timestamp": 1752117359572
+    },
+    {
+      "time": 10682,
+      "type": "scroll",
+      "scrollTop": 231,
+      "scrollLeft": 0,
+      "timestamp": 1752117359587
+    },
+    {
+      "time": 10702,
+      "type": "scroll",
+      "scrollTop": 221,
+      "scrollLeft": 0,
+      "timestamp": 1752117359607
+    },
+    {
+      "time": 10715,
+      "type": "scroll",
+      "scrollTop": 214,
+      "scrollLeft": 0,
+      "timestamp": 1752117359620
+    },
+    {
+      "time": 10732,
+      "type": "scroll",
+      "scrollTop": 203,
+      "scrollLeft": 0,
+      "timestamp": 1752117359637
+    },
+    {
+      "time": 10767,
+      "type": "scroll",
+      "scrollTop": 195,
+      "scrollLeft": 0,
+      "timestamp": 1752117359672
+    },
+    {
+      "time": 10782,
+      "type": "scroll",
+      "scrollTop": 190,
+      "scrollLeft": 0,
+      "timestamp": 1752117359687
+    },
+    {
+      "time": 10798,
+      "type": "scroll",
+      "scrollTop": 186,
+      "scrollLeft": 0,
+      "timestamp": 1752117359703
+    },
+    {
+      "time": 10815,
+      "type": "scroll",
+      "scrollTop": 183,
+      "scrollLeft": 0,
+      "timestamp": 1752117359720
+    },
+    {
+      "time": 10834,
+      "type": "scroll",
+      "scrollTop": 180,
+      "scrollLeft": 0,
+      "timestamp": 1752117359739
+    },
+    {
+      "time": 10848,
+      "type": "scroll",
+      "scrollTop": 177,
+      "scrollLeft": 0,
+      "timestamp": 1752117359753
+    },
+    {
+      "time": 10882,
+      "type": "scroll",
+      "scrollTop": 175,
+      "scrollLeft": 0,
+      "timestamp": 1752117359787
+    },
+    {
+      "time": 10899,
+      "type": "scroll",
+      "scrollTop": 173,
+      "scrollLeft": 0,
+      "timestamp": 1752117359804
+    },
+    {
+      "time": 10921,
+      "type": "scroll",
+      "scrollTop": 171,
+      "scrollLeft": 0,
+      "timestamp": 1752117359826
+    },
+    {
+      "time": 10932,
+      "type": "scroll",
+      "scrollTop": 169,
+      "scrollLeft": 0,
+      "timestamp": 1752117359837
+    },
+    {
+      "time": 10949,
+      "type": "scroll",
+      "scrollTop": 167,
+      "scrollLeft": 0,
+      "timestamp": 1752117359854
+    },
+    {
+      "time": 10970,
+      "type": "scroll",
+      "scrollTop": 165,
+      "scrollLeft": 0,
+      "timestamp": 1752117359875
+    },
+    {
+      "time": 10983,
+      "type": "scroll",
+      "scrollTop": 164,
+      "scrollLeft": 0,
+      "timestamp": 1752117359888
+    },
+    {
+      "time": 11000,
+      "type": "scroll",
+      "scrollTop": 163,
+      "scrollLeft": 0,
+      "timestamp": 1752117359905
+    },
+    {
+      "time": 11015,
+      "type": "scroll",
+      "scrollTop": 162,
+      "scrollLeft": 0,
+      "timestamp": 1752117359920
+    },
+    {
+      "time": 11031,
+      "type": "scroll",
+      "scrollTop": 161,
+      "scrollLeft": 0,
+      "timestamp": 1752117359936
+    },
+    {
+      "time": 11048,
+      "type": "scroll",
+      "scrollTop": 160,
+      "scrollLeft": 0,
+      "timestamp": 1752117359953
+    },
+    {
+      "time": 11067,
+      "type": "scroll",
+      "scrollTop": 159,
+      "scrollLeft": 0,
+      "timestamp": 1752117359972
+    },
+    {
+      "time": 11084,
+      "type": "scroll",
+      "scrollTop": 158,
+      "scrollLeft": 0,
+      "timestamp": 1752117359989
+    },
+    {
+      "time": 11098,
+      "type": "scroll",
+      "scrollTop": 157,
+      "scrollLeft": 0,
+      "timestamp": 1752117360003
+    },
+    {
+      "time": 11115,
+      "type": "scroll",
+      "scrollTop": 156,
+      "scrollLeft": 0,
+      "timestamp": 1752117360020
+    },
+    {
+      "time": 11136,
+      "type": "scroll",
+      "scrollTop": 155,
+      "scrollLeft": 0,
+      "timestamp": 1752117360041
+    },
+    {
+      "time": 11180,
+      "type": "scroll",
+      "scrollTop": 141,
+      "scrollLeft": 0,
+      "timestamp": 1752117360085
+    },
+    {
+      "time": 11201,
+      "type": "scroll",
+      "scrollTop": 116,
+      "scrollLeft": 0,
+      "timestamp": 1752117360106
+    },
+    {
+      "time": 11216,
+      "type": "scroll",
+      "scrollTop": 93,
+      "scrollLeft": 0,
+      "timestamp": 1752117360121
+    },
+    {
+      "time": 11232,
+      "type": "scroll",
+      "scrollTop": 81,
+      "scrollLeft": 0,
+      "timestamp": 1752117360137
+    },
+    {
+      "time": 11250,
+      "type": "scroll",
+      "scrollTop": 69,
+      "scrollLeft": 0,
+      "timestamp": 1752117360155
+    },
+    {
+      "time": 11289,
+      "type": "scroll",
+      "scrollTop": 59,
+      "scrollLeft": 0,
+      "timestamp": 1752117360194
+    },
+    {
+      "time": 11298,
+      "type": "scroll",
+      "scrollTop": 52,
+      "scrollLeft": 0,
+      "timestamp": 1752117360203
+    },
+    {
+      "time": 11316,
+      "type": "scroll",
+      "scrollTop": 47,
+      "scrollLeft": 0,
+      "timestamp": 1752117360221
+    },
+    {
+      "time": 11333,
+      "type": "scroll",
+      "scrollTop": 42,
+      "scrollLeft": 0,
+      "timestamp": 1752117360238
+    },
+    {
+      "time": 11351,
+      "type": "scroll",
+      "scrollTop": 38,
+      "scrollLeft": 0,
+      "timestamp": 1752117360256
+    },
+    {
+      "time": 11365,
+      "type": "scroll",
+      "scrollTop": 35,
+      "scrollLeft": 0,
+      "timestamp": 1752117360270
+    },
+    {
+      "time": 11381,
+      "type": "scroll",
+      "scrollTop": 32,
+      "scrollLeft": 0,
+      "timestamp": 1752117360286
+    },
+    {
+      "time": 11400,
+      "type": "scroll",
+      "scrollTop": 29,
+      "scrollLeft": 0,
+      "timestamp": 1752117360305
+    },
+    {
+      "time": 11415,
+      "type": "scroll",
+      "scrollTop": 26,
+      "scrollLeft": 0,
+      "timestamp": 1752117360320
+    },
+    {
+      "time": 11437,
+      "type": "scroll",
+      "scrollTop": 24,
+      "scrollLeft": 0,
+      "timestamp": 1752117360342
+    },
+    {
+      "time": 11448,
+      "type": "scroll",
+      "scrollTop": 21,
+      "scrollLeft": 0,
+      "timestamp": 1752117360353
+    },
+    {
+      "time": 11466,
+      "type": "scroll",
+      "scrollTop": 19,
+      "scrollLeft": 0,
+      "timestamp": 1752117360371
+    },
+    {
+      "time": 11485,
+      "type": "scroll",
+      "scrollTop": 17,
+      "scrollLeft": 0,
+      "timestamp": 1752117360390
+    },
+    {
+      "time": 11502,
+      "type": "scroll",
+      "scrollTop": 15,
+      "scrollLeft": 0,
+      "timestamp": 1752117360407
+    },
+    {
+      "time": 11514,
+      "type": "scroll",
+      "scrollTop": 13,
+      "scrollLeft": 0,
+      "timestamp": 1752117360419
+    },
+    {
+      "time": 11535,
+      "type": "scroll",
+      "scrollTop": 11,
+      "scrollLeft": 0,
+      "timestamp": 1752117360440
+    },
+    {
+      "time": 11548,
+      "type": "scroll",
+      "scrollTop": 10,
+      "scrollLeft": 0,
+      "timestamp": 1752117360453
+    },
+    {
+      "time": 11564,
+      "type": "scroll",
+      "scrollTop": 8,
+      "scrollLeft": 0,
+      "timestamp": 1752117360469
+    },
+    {
+      "time": 11587,
+      "type": "scroll",
+      "scrollTop": 7,
+      "scrollLeft": 0,
+      "timestamp": 1752117360492
+    },
+    {
+      "time": 11598,
+      "type": "scroll",
+      "scrollTop": 6,
+      "scrollLeft": 0,
+      "timestamp": 1752117360503
+    },
+    {
+      "time": 11615,
+      "type": "scroll",
+      "scrollTop": 5,
+      "scrollLeft": 0,
+      "timestamp": 1752117360520
+    },
+    {
+      "time": 11639,
+      "type": "scroll",
+      "scrollTop": 4,
+      "scrollLeft": 0,
+      "timestamp": 1752117360544
+    },
+    {
+      "time": 11648,
+      "type": "scroll",
+      "scrollTop": 3,
+      "scrollLeft": 0,
+      "timestamp": 1752117360553
+    },
+    {
+      "time": 11664,
+      "type": "scroll",
+      "scrollTop": 2,
+      "scrollLeft": 0,
+      "timestamp": 1752117360569
+    },
+    {
+      "time": 11682,
+      "type": "scroll",
+      "scrollTop": 1,
+      "scrollLeft": 0,
+      "timestamp": 1752117360587
+    },
+    {
+      "time": 11701,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117360606
+    },
+    {
+      "time": 12147,
+      "type": "scroll",
+      "scrollTop": 1,
+      "scrollLeft": 0,
+      "timestamp": 1752117361052
+    },
+    {
+      "time": 12164,
+      "type": "scroll",
+      "scrollTop": 8,
+      "scrollLeft": 0,
+      "timestamp": 1752117361069
+    },
+    {
+      "time": 12186,
+      "type": "scroll",
+      "scrollTop": 21,
+      "scrollLeft": 0,
+      "timestamp": 1752117361091
+    },
+    {
+      "time": 12197,
+      "type": "scroll",
+      "scrollTop": 31,
+      "scrollLeft": 0,
+      "timestamp": 1752117361102
+    },
+    {
+      "time": 12215,
+      "type": "scroll",
+      "scrollTop": 49,
+      "scrollLeft": 0,
+      "timestamp": 1752117361120
+    },
+    {
+      "time": 12231,
+      "type": "scroll",
+      "scrollTop": 71,
+      "scrollLeft": 0,
+      "timestamp": 1752117361136
+    },
+    {
+      "time": 12249,
+      "type": "scroll",
+      "scrollTop": 95,
+      "scrollLeft": 0,
+      "timestamp": 1752117361154
+    },
+    {
+      "time": 12287,
+      "type": "scroll",
+      "scrollTop": 112,
+      "scrollLeft": 0,
+      "timestamp": 1752117361192
+    },
+    {
+      "time": 12297,
+      "type": "scroll",
+      "scrollTop": 125,
+      "scrollLeft": 0,
+      "timestamp": 1752117361202
+    },
+    {
+      "time": 12314,
+      "type": "scroll",
+      "scrollTop": 135,
+      "scrollLeft": 0,
+      "timestamp": 1752117361219
+    },
+    {
+      "time": 12331,
+      "type": "scroll",
+      "scrollTop": 144,
+      "scrollLeft": 0,
+      "timestamp": 1752117361236
+    },
+    {
+      "time": 12349,
+      "type": "scroll",
+      "scrollTop": 152,
+      "scrollLeft": 0,
+      "timestamp": 1752117361254
+    },
+    {
+      "time": 12365,
+      "type": "scroll",
+      "scrollTop": 159,
+      "scrollLeft": 0,
+      "timestamp": 1752117361270
+    },
+    {
+      "time": 12388,
+      "type": "scroll",
+      "scrollTop": 165,
+      "scrollLeft": 0,
+      "timestamp": 1752117361293
+    },
+    {
+      "time": 12398,
+      "type": "scroll",
+      "scrollTop": 170,
+      "scrollLeft": 0,
+      "timestamp": 1752117361303
+    },
+    {
+      "time": 12414,
+      "type": "scroll",
+      "scrollTop": 175,
+      "scrollLeft": 0,
+      "timestamp": 1752117361319
+    },
+    {
+      "time": 12435,
+      "type": "scroll",
+      "scrollTop": 180,
+      "scrollLeft": 0,
+      "timestamp": 1752117361340
+    },
+    {
+      "time": 12448,
+      "type": "scroll",
+      "scrollTop": 185,
+      "scrollLeft": 0,
+      "timestamp": 1752117361353
+    },
+    {
+      "time": 12465,
+      "type": "scroll",
+      "scrollTop": 189,
+      "scrollLeft": 0,
+      "timestamp": 1752117361370
+    },
+    {
+      "time": 12482,
+      "type": "scroll",
+      "scrollTop": 193,
+      "scrollLeft": 0,
+      "timestamp": 1752117361387
+    },
+    {
+      "time": 12500,
+      "type": "scroll",
+      "scrollTop": 196,
+      "scrollLeft": 0,
+      "timestamp": 1752117361405
+    },
+    {
+      "time": 12515,
+      "type": "scroll",
+      "scrollTop": 199,
+      "scrollLeft": 0,
+      "timestamp": 1752117361420
+    },
+    {
+      "time": 12536,
+      "type": "scroll",
+      "scrollTop": 202,
+      "scrollLeft": 0,
+      "timestamp": 1752117361441
+    },
+    {
+      "time": 12548,
+      "type": "scroll",
+      "scrollTop": 205,
+      "scrollLeft": 0,
+      "timestamp": 1752117361453
+    },
+    {
+      "time": 12565,
+      "type": "scroll",
+      "scrollTop": 208,
+      "scrollLeft": 0,
+      "timestamp": 1752117361470
+    },
+    {
+      "time": 12583,
+      "type": "scroll",
+      "scrollTop": 211,
+      "scrollLeft": 0,
+      "timestamp": 1752117361488
+    },
+    {
+      "time": 12601,
+      "type": "scroll",
+      "scrollTop": 214,
+      "scrollLeft": 0,
+      "timestamp": 1752117361506
+    },
+    {
+      "time": 12615,
+      "type": "scroll",
+      "scrollTop": 217,
+      "scrollLeft": 0,
+      "timestamp": 1752117361520
+    },
+    {
+      "time": 12636,
+      "type": "scroll",
+      "scrollTop": 220,
+      "scrollLeft": 0,
+      "timestamp": 1752117361541
+    },
+    {
+      "time": 12647,
+      "type": "scroll",
+      "scrollTop": 223,
+      "scrollLeft": 0,
+      "timestamp": 1752117361552
+    },
+    {
+      "time": 12665,
+      "type": "scroll",
+      "scrollTop": 225,
+      "scrollLeft": 0,
+      "timestamp": 1752117361570
+    },
+    {
+      "time": 12686,
+      "type": "scroll",
+      "scrollTop": 227,
+      "scrollLeft": 0,
+      "timestamp": 1752117361591
+    },
+    {
+      "time": 12698,
+      "type": "scroll",
+      "scrollTop": 229,
+      "scrollLeft": 0,
+      "timestamp": 1752117361603
+    },
+    {
+      "time": 12716,
+      "type": "scroll",
+      "scrollTop": 231,
+      "scrollLeft": 0,
+      "timestamp": 1752117361621
+    },
+    {
+      "time": 12731,
+      "type": "scroll",
+      "scrollTop": 233,
+      "scrollLeft": 0,
+      "timestamp": 1752117361636
+    },
+    {
+      "time": 12748,
+      "type": "scroll",
+      "scrollTop": 235,
+      "scrollLeft": 0,
+      "timestamp": 1752117361653
+    },
+    {
+      "time": 12765,
+      "type": "scroll",
+      "scrollTop": 237,
+      "scrollLeft": 0,
+      "timestamp": 1752117361670
+    },
+    {
+      "time": 12785,
+      "type": "scroll",
+      "scrollTop": 239,
+      "scrollLeft": 0,
+      "timestamp": 1752117361690
+    },
+    {
+      "time": 12797,
+      "type": "scroll",
+      "scrollTop": 241,
+      "scrollLeft": 0,
+      "timestamp": 1752117361702
+    },
+    {
+      "time": 12815,
+      "type": "scroll",
+      "scrollTop": 243,
+      "scrollLeft": 0,
+      "timestamp": 1752117361720
+    },
+    {
+      "time": 12833,
+      "type": "scroll",
+      "scrollTop": 245,
+      "scrollLeft": 0,
+      "timestamp": 1752117361738
+    },
+    {
+      "time": 12847,
+      "type": "scroll",
+      "scrollTop": 246,
+      "scrollLeft": 0,
+      "timestamp": 1752117361752
+    },
+    {
+      "time": 12914,
+      "type": "scroll",
+      "scrollTop": 249,
+      "scrollLeft": 0,
+      "timestamp": 1752117361819
+    },
+    {
+      "time": 12931,
+      "type": "scroll",
+      "scrollTop": 259,
+      "scrollLeft": 0,
+      "timestamp": 1752117361836
+    },
+    {
+      "time": 12948,
+      "type": "scroll",
+      "scrollTop": 263,
+      "scrollLeft": 0,
+      "timestamp": 1752117361853
+    },
+    {
+      "time": 12965,
+      "type": "scroll",
+      "scrollTop": 266,
+      "scrollLeft": 0,
+      "timestamp": 1752117361870
+    },
+    {
+      "time": 12984,
+      "type": "scroll",
+      "scrollTop": 267,
+      "scrollLeft": 0,
+      "timestamp": 1752117361889
+    },
+    {
+      "time": 12998,
+      "type": "scroll",
+      "scrollTop": 268,
+      "scrollLeft": 0,
+      "timestamp": 1752117361903
+    },
+    {
+      "time": 13014,
+      "type": "scroll",
+      "scrollTop": 269,
+      "scrollLeft": 0,
+      "timestamp": 1752117361919
+    },
+    {
+      "time": 15242,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nc",
+      "cursor": {
+        "line": 25,
+        "ch": 1
+      },
+      "timestamp": 1752117364147
+    },
+    {
+      "time": 15242,
+      "type": "scroll",
+      "scrollTop": 284,
+      "scrollLeft": 0,
+      "timestamp": 1752117364147
+    },
+    {
+      "time": 15414,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nco",
+      "cursor": {
+        "line": 25,
+        "ch": 2
+      },
+      "timestamp": 1752117364319
+    },
+    {
+      "time": 15831,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\ncos",
+      "cursor": {
+        "line": 25,
+        "ch": 3
+      },
+      "timestamp": 1752117364736
+    },
+    {
+      "time": 16157,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nco",
+      "cursor": {
+        "line": 25,
+        "ch": 2
+      },
+      "timestamp": 1752117365062
+    },
+    {
+      "time": 17340,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\ncon",
+      "cursor": {
+        "line": 25,
+        "ch": 3
+      },
+      "timestamp": 1752117366245
+    },
+    {
+      "time": 17506,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\ncons",
+      "cursor": {
+        "line": 25,
+        "ch": 4
+      },
+      "timestamp": 1752117366411
+    },
+    {
+      "time": 17809,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst",
+      "cursor": {
+        "line": 25,
+        "ch": 5
+      },
+      "timestamp": 1752117366714
+    },
+    {
+      "time": 17912,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst ",
+      "cursor": {
+        "line": 25,
+        "ch": 6
+      },
+      "timestamp": 1752117366817
+    },
+    {
+      "time": 19017,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst w",
+      "cursor": {
+        "line": 25,
+        "ch": 7
+      },
+      "timestamp": 1752117367922
+    },
+    {
+      "time": 19101,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst wo",
+      "cursor": {
+        "line": 25,
+        "ch": 8
+      },
+      "timestamp": 1752117368006
+    },
+    {
+      "time": 19460,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst wok",
+      "cursor": {
+        "line": 25,
+        "ch": 9
+      },
+      "timestamp": 1752117368365
+    },
+    {
+      "time": 19804,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst wo",
+      "cursor": {
+        "line": 25,
+        "ch": 8
+      },
+      "timestamp": 1752117368709
+    },
+    {
+      "time": 20473,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst wor",
+      "cursor": {
+        "line": 25,
+        "ch": 9
+      },
+      "timestamp": 1752117369378
+    },
+    {
+      "time": 20568,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst work",
+      "cursor": {
+        "line": 25,
+        "ch": 10
+      },
+      "timestamp": 1752117369473
+    },
+    {
+      "time": 20743,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst worki",
+      "cursor": {
+        "line": 25,
+        "ch": 11
+      },
+      "timestamp": 1752117369648
+    },
+    {
+      "time": 20839,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workin",
+      "cursor": {
+        "line": 25,
+        "ch": 12
+      },
+      "timestamp": 1752117369744
+    },
+    {
+      "time": 21257,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst working",
+      "cursor": {
+        "line": 25,
+        "ch": 13
+      },
+      "timestamp": 1752117370162
+    },
+    {
+      "time": 21363,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst working ",
+      "cursor": {
+        "line": 25,
+        "ch": 14
+      },
+      "timestamp": 1752117370268
+    },
+    {
+      "time": 22248,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst working",
+      "cursor": {
+        "line": 25,
+        "ch": 13
+      },
+      "timestamp": 1752117371153
+    },
+    {
+      "time": 22515,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingS",
+      "cursor": {
+        "line": 25,
+        "ch": 14
+      },
+      "timestamp": 1752117371420
+    },
+    {
+      "time": 22864,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingSc",
+      "cursor": {
+        "line": 25,
+        "ch": 15
+      },
+      "timestamp": 1752117371769
+    },
+    {
+      "time": 23057,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScr",
+      "cursor": {
+        "line": 25,
+        "ch": 16
+      },
+      "timestamp": 1752117371962
+    },
+    {
+      "time": 23156,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScro",
+      "cursor": {
+        "line": 25,
+        "ch": 17
+      },
+      "timestamp": 1752117372061
+    },
+    {
+      "time": 23377,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScrol",
+      "cursor": {
+        "line": 25,
+        "ch": 18
+      },
+      "timestamp": 1752117372282
+    },
+    {
+      "time": 23515,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll",
+      "cursor": {
+        "line": 25,
+        "ch": 19
+      },
+      "timestamp": 1752117372420
+    },
+    {
+      "time": 24334,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll ",
+      "cursor": {
+        "line": 25,
+        "ch": 20
+      },
+      "timestamp": 1752117373239
+    },
+    {
+      "time": 24430,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll =",
+      "cursor": {
+        "line": 25,
+        "ch": 21
+      },
+      "timestamp": 1752117373335
+    },
+    {
+      "time": 24465,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = ",
+      "cursor": {
+        "line": 25,
+        "ch": 22
+      },
+      "timestamp": 1752117373370
+    },
+    {
+      "time": 25376,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"\"",
+      "cursor": {
+        "line": 25,
+        "ch": 23
+      },
+      "timestamp": 1752117374281
+    },
+    {
+      "time": 25870,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Y\"",
+      "cursor": {
+        "line": 25,
+        "ch": 24
+      },
+      "timestamp": 1752117374775
+    },
+    {
+      "time": 26101,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Ye\"",
+      "cursor": {
+        "line": 25,
+        "ch": 25
+      },
+      "timestamp": 1752117375006
+    },
+    {
+      "time": 26313,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\"",
+      "cursor": {
+        "line": 25,
+        "ch": 26
+      },
+      "timestamp": 1752117375218
+    },
+    {
+      "time": 27436,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";",
+      "cursor": {
+        "line": 25,
+        "ch": 28
+      },
+      "timestamp": 1752117376341
+    },
+    {
+      "time": 27694,
+      "type": "scroll",
+      "scrollTop": 306,
+      "scrollLeft": 0,
+      "timestamp": 1752117376599
+    },
+    {
+      "time": 27694,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\n",
+      "cursor": {
+        "line": 26,
+        "ch": 0
+      },
+      "timestamp": 1752117376599
+    },
+    {
+      "time": 28594,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nc",
+      "cursor": {
+        "line": 26,
+        "ch": 1
+      },
+      "timestamp": 1752117377499
+    },
+    {
+      "time": 28679,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nco",
+      "cursor": {
+        "line": 26,
+        "ch": 2
+      },
+      "timestamp": 1752117377584
+    },
+    {
+      "time": 28878,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\ncon",
+      "cursor": {
+        "line": 26,
+        "ch": 3
+      },
+      "timestamp": 1752117377783
+    },
+    {
+      "time": 28983,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\ncons",
+      "cursor": {
+        "line": 26,
+        "ch": 4
+      },
+      "timestamp": 1752117377888
+    },
+    {
+      "time": 29068,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconso",
+      "cursor": {
+        "line": 26,
+        "ch": 5
+      },
+      "timestamp": 1752117377973
+    },
+    {
+      "time": 29529,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole",
+      "cursor": {
+        "line": 26,
+        "ch": 7
+      },
+      "timestamp": 1752117378434
+    },
+    {
+      "time": 30282,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.",
+      "cursor": {
+        "line": 26,
+        "ch": 8
+      },
+      "timestamp": 1752117379187
+    },
+    {
+      "time": 30550,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.l",
+      "cursor": {
+        "line": 26,
+        "ch": 9
+      },
+      "timestamp": 1752117379455
+    },
+    {
+      "time": 30713,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.lo",
+      "cursor": {
+        "line": 26,
+        "ch": 10
+      },
+      "timestamp": 1752117379618
+    },
+    {
+      "time": 30915,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log",
+      "cursor": {
+        "line": 26,
+        "ch": 11
+      },
+      "timestamp": 1752117379820
+    },
+    {
+      "time": 31384,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log()",
+      "cursor": {
+        "line": 26,
+        "ch": 12
+      },
+      "timestamp": 1752117380289
+    },
+    {
+      "time": 32150,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(w)",
+      "cursor": {
+        "line": 26,
+        "ch": 13
+      },
+      "timestamp": 1752117381055
+    },
+    {
+      "time": 32203,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(wo)",
+      "cursor": {
+        "line": 26,
+        "ch": 14
+      },
+      "timestamp": 1752117381108
+    },
+    {
+      "time": 32469,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(wor)",
+      "cursor": {
+        "line": 26,
+        "ch": 15
+      },
+      "timestamp": 1752117381374
+    },
+    {
+      "time": 33363,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(workingScroll)",
+      "cursor": {
+        "line": 26,
+        "ch": 25
+      },
+      "timestamp": 1752117382268
+    },
+    {
+      "time": 34273,
+      "type": "code",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(workingScroll);",
+      "cursor": {
+        "line": 26,
+        "ch": 27
+      },
+      "timestamp": 1752117383178
+    },
+    {
+      "time": 36605,
+      "type": "scroll",
+      "scrollTop": 305,
+      "scrollLeft": 0,
+      "timestamp": 1752117385510
+    },
+    {
+      "time": 36622,
+      "type": "scroll",
+      "scrollTop": 298,
+      "scrollLeft": 0,
+      "timestamp": 1752117385527
+    },
+    {
+      "time": 36639,
+      "type": "scroll",
+      "scrollTop": 275,
+      "scrollLeft": 0,
+      "timestamp": 1752117385544
+    },
+    {
+      "time": 36656,
+      "type": "scroll",
+      "scrollTop": 247,
+      "scrollLeft": 0,
+      "timestamp": 1752117385561
+    },
+    {
+      "time": 36672,
+      "type": "scroll",
+      "scrollTop": 229,
+      "scrollLeft": 0,
+      "timestamp": 1752117385577
+    },
+    {
+      "time": 36689,
+      "type": "scroll",
+      "scrollTop": 203,
+      "scrollLeft": 0,
+      "timestamp": 1752117385594
+    },
+    {
+      "time": 36705,
+      "type": "scroll",
+      "scrollTop": 177,
+      "scrollLeft": 0,
+      "timestamp": 1752117385610
+    },
+    {
+      "time": 36738,
+      "type": "scroll",
+      "scrollTop": 154,
+      "scrollLeft": 0,
+      "timestamp": 1752117385643
+    },
+    {
+      "time": 36755,
+      "type": "scroll",
+      "scrollTop": 137,
+      "scrollLeft": 0,
+      "timestamp": 1752117385660
+    },
+    {
+      "time": 36772,
+      "type": "scroll",
+      "scrollTop": 123,
+      "scrollLeft": 0,
+      "timestamp": 1752117385677
+    },
+    {
+      "time": 36788,
+      "type": "scroll",
+      "scrollTop": 111,
+      "scrollLeft": 0,
+      "timestamp": 1752117385693
+    },
+    {
+      "time": 36805,
+      "type": "scroll",
+      "scrollTop": 101,
+      "scrollLeft": 0,
+      "timestamp": 1752117385710
+    },
+    {
+      "time": 36821,
+      "type": "scroll",
+      "scrollTop": 91,
+      "scrollLeft": 0,
+      "timestamp": 1752117385726
+    },
+    {
+      "time": 36838,
+      "type": "scroll",
+      "scrollTop": 83,
+      "scrollLeft": 0,
+      "timestamp": 1752117385743
+    },
+    {
+      "time": 36855,
+      "type": "scroll",
+      "scrollTop": 75,
+      "scrollLeft": 0,
+      "timestamp": 1752117385760
+    },
+    {
+      "time": 36871,
+      "type": "scroll",
+      "scrollTop": 68,
+      "scrollLeft": 0,
+      "timestamp": 1752117385776
+    },
+    {
+      "time": 36888,
+      "type": "scroll",
+      "scrollTop": 61,
+      "scrollLeft": 0,
+      "timestamp": 1752117385793
+    },
+    {
+      "time": 36905,
+      "type": "scroll",
+      "scrollTop": 54,
+      "scrollLeft": 0,
+      "timestamp": 1752117385810
+    },
+    {
+      "time": 36922,
+      "type": "scroll",
+      "scrollTop": 48,
+      "scrollLeft": 0,
+      "timestamp": 1752117385827
+    },
+    {
+      "time": 36938,
+      "type": "scroll",
+      "scrollTop": 43,
+      "scrollLeft": 0,
+      "timestamp": 1752117385843
+    },
+    {
+      "time": 36955,
+      "type": "scroll",
+      "scrollTop": 38,
+      "scrollLeft": 0,
+      "timestamp": 1752117385860
+    },
+    {
+      "time": 36971,
+      "type": "scroll",
+      "scrollTop": 33,
+      "scrollLeft": 0,
+      "timestamp": 1752117385876
+    },
+    {
+      "time": 36989,
+      "type": "scroll",
+      "scrollTop": 28,
+      "scrollLeft": 0,
+      "timestamp": 1752117385894
+    },
+    {
+      "time": 37005,
+      "type": "scroll",
+      "scrollTop": 23,
+      "scrollLeft": 0,
+      "timestamp": 1752117385910
+    },
+    {
+      "time": 37022,
+      "type": "scroll",
+      "scrollTop": 19,
+      "scrollLeft": 0,
+      "timestamp": 1752117385927
+    },
+    {
+      "time": 37038,
+      "type": "scroll",
+      "scrollTop": 15,
+      "scrollLeft": 0,
+      "timestamp": 1752117385943
+    },
+    {
+      "time": 37088,
+      "type": "scroll",
+      "scrollTop": 14,
+      "scrollLeft": 0,
+      "timestamp": 1752117385993
+    },
+    {
+      "time": 37105,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117386010
+    },
+    {
+      "time": 50077,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117398982
+    },
+    {
+      "time": 50078,
+      "type": "zoom",
+      "fontSize": 18,
+      "timestamp": 1752117398983
+    },
+    {
+      "time": 50084,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117398989
+    },
+    {
+      "time": 50224,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117399129
+    },
+    {
+      "time": 50225,
+      "type": "zoom",
+      "fontSize": 20,
+      "timestamp": 1752117399130
+    },
+    {
+      "time": 50234,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117399139
+    },
+    {
+      "time": 50443,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117399348
+    },
+    {
+      "time": 50444,
+      "type": "zoom",
+      "fontSize": 22,
+      "timestamp": 1752117399349
+    },
+    {
+      "time": 50450,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 0,
+      "timestamp": 1752117399355
+    },
+    {
+      "time": 51333,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 1,
+      "timestamp": 1752117400238
+    },
+    {
+      "time": 51351,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 14,
+      "timestamp": 1752117400256
+    },
+    {
+      "time": 51383,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 45,
+      "timestamp": 1752117400288
+    },
+    {
+      "time": 51400,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 63,
+      "timestamp": 1752117400305
+    },
+    {
+      "time": 51417,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 83,
+      "timestamp": 1752117400322
+    },
+    {
+      "time": 51434,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 91,
+      "timestamp": 1752117400339
+    },
+    {
+      "time": 51451,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 99,
+      "timestamp": 1752117400356
+    },
+    {
+      "time": 51483,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 107,
+      "timestamp": 1752117400388
+    },
+    {
+      "time": 51500,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 112,
+      "timestamp": 1752117400405
+    },
+    {
+      "time": 51517,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 117,
+      "timestamp": 1752117400422
+    },
+    {
+      "time": 51533,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 121,
+      "timestamp": 1752117400438
+    },
+    {
+      "time": 51550,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 124,
+      "timestamp": 1752117400455
+    },
+    {
+      "time": 51567,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 127,
+      "timestamp": 1752117400472
+    },
+    {
+      "time": 51583,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 130,
+      "timestamp": 1752117400488
+    },
+    {
+      "time": 51600,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 132,
+      "timestamp": 1752117400505
+    },
+    {
+      "time": 51616,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 134,
+      "timestamp": 1752117400521
+    },
+    {
+      "time": 51633,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 136,
+      "timestamp": 1752117400538
+    },
+    {
+      "time": 51650,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 138,
+      "timestamp": 1752117400555
+    },
+    {
+      "time": 51667,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 140,
+      "timestamp": 1752117400572
+    },
+    {
+      "time": 51683,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 141,
+      "timestamp": 1752117400588
+    },
+    {
+      "time": 51700,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 142,
+      "timestamp": 1752117400605
+    },
+    {
+      "time": 51716,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 143,
+      "timestamp": 1752117400621
+    },
+    {
+      "time": 51733,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 144,
+      "timestamp": 1752117400638
+    },
+    {
+      "time": 51750,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 145,
+      "timestamp": 1752117400655
+    },
+    {
+      "time": 51767,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 146,
+      "timestamp": 1752117400672
+    },
+    {
+      "time": 51783,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 147,
+      "timestamp": 1752117400688
+    },
+    {
+      "time": 51800,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 148,
+      "timestamp": 1752117400705
+    },
+    {
+      "time": 51817,
+      "type": "scroll",
+      "scrollTop": 0,
+      "scrollLeft": 149,
+      "timestamp": 1752117400722
+    },
+    {
+      "time": 51900,
+      "type": "scroll",
+      "scrollTop": 2,
+      "scrollLeft": 149,
+      "timestamp": 1752117400805
+    },
+    {
+      "time": 51917,
+      "type": "scroll",
+      "scrollTop": 38,
+      "scrollLeft": 149,
+      "timestamp": 1752117400822
+    },
+    {
+      "time": 51933,
+      "type": "scroll",
+      "scrollTop": 50,
+      "scrollLeft": 149,
+      "timestamp": 1752117400838
+    },
+    {
+      "time": 51950,
+      "type": "scroll",
+      "scrollTop": 61,
+      "scrollLeft": 149,
+      "timestamp": 1752117400855
+    },
+    {
+      "time": 51967,
+      "type": "scroll",
+      "scrollTop": 75,
+      "scrollLeft": 149,
+      "timestamp": 1752117400872
+    },
+    {
+      "time": 51983,
+      "type": "scroll",
+      "scrollTop": 81,
+      "scrollLeft": 149,
+      "timestamp": 1752117400888
+    },
+    {
+      "time": 52016,
+      "type": "scroll",
+      "scrollTop": 89,
+      "scrollLeft": 149,
+      "timestamp": 1752117400921
+    },
+    {
+      "time": 52033,
+      "type": "scroll",
+      "scrollTop": 95,
+      "scrollLeft": 149,
+      "timestamp": 1752117400938
+    },
+    {
+      "time": 52050,
+      "type": "scroll",
+      "scrollTop": 99,
+      "scrollLeft": 149,
+      "timestamp": 1752117400955
+    },
+    {
+      "time": 52067,
+      "type": "scroll",
+      "scrollTop": 103,
+      "scrollLeft": 149,
+      "timestamp": 1752117400972
+    },
+    {
+      "time": 52083,
+      "type": "scroll",
+      "scrollTop": 106,
+      "scrollLeft": 149,
+      "timestamp": 1752117400988
+    },
+    {
+      "time": 52100,
+      "type": "scroll",
+      "scrollTop": 109,
+      "scrollLeft": 149,
+      "timestamp": 1752117401005
+    },
+    {
+      "time": 52117,
+      "type": "scroll",
+      "scrollTop": 112,
+      "scrollLeft": 149,
+      "timestamp": 1752117401022
+    },
+    {
+      "time": 52133,
+      "type": "scroll",
+      "scrollTop": 115,
+      "scrollLeft": 149,
+      "timestamp": 1752117401038
+    },
+    {
+      "time": 52150,
+      "type": "scroll",
+      "scrollTop": 117,
+      "scrollLeft": 149,
+      "timestamp": 1752117401055
+    },
+    {
+      "time": 52166,
+      "type": "scroll",
+      "scrollTop": 119,
+      "scrollLeft": 149,
+      "timestamp": 1752117401071
+    },
+    {
+      "time": 52183,
+      "type": "scroll",
+      "scrollTop": 121,
+      "scrollLeft": 149,
+      "timestamp": 1752117401088
+    },
+    {
+      "time": 52200,
+      "type": "scroll",
+      "scrollTop": 123,
+      "scrollLeft": 149,
+      "timestamp": 1752117401105
+    },
+    {
+      "time": 52217,
+      "type": "scroll",
+      "scrollTop": 124,
+      "scrollLeft": 149,
+      "timestamp": 1752117401122
+    },
+    {
+      "time": 52233,
+      "type": "scroll",
+      "scrollTop": 126,
+      "scrollLeft": 149,
+      "timestamp": 1752117401138
+    },
+    {
+      "time": 52250,
+      "type": "scroll",
+      "scrollTop": 127,
+      "scrollLeft": 149,
+      "timestamp": 1752117401155
+    },
+    {
+      "time": 52267,
+      "type": "scroll",
+      "scrollTop": 128,
+      "scrollLeft": 149,
+      "timestamp": 1752117401172
+    },
+    {
+      "time": 52284,
+      "type": "scroll",
+      "scrollTop": 129,
+      "scrollLeft": 149,
+      "timestamp": 1752117401189
+    },
+    {
+      "time": 52300,
+      "type": "scroll",
+      "scrollTop": 130,
+      "scrollLeft": 149,
+      "timestamp": 1752117401205
+    },
+    {
+      "time": 52317,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 149,
+      "timestamp": 1752117401222
+    },
+    {
+      "time": 52349,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 135,
+      "timestamp": 1752117401254
+    },
+    {
+      "time": 52367,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 97,
+      "timestamp": 1752117401272
+    },
+    {
+      "time": 52383,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 72,
+      "timestamp": 1752117401288
+    },
+    {
+      "time": 52400,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 33,
+      "timestamp": 1752117401305
+    },
+    {
+      "time": 52416,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 11,
+      "timestamp": 1752117401321
+    },
+    {
+      "time": 52449,
+      "type": "scroll",
+      "scrollTop": 131,
+      "scrollLeft": 0,
+      "timestamp": 1752117401354
+    },
+    {
+      "time": 52766,
+      "type": "scroll",
+      "scrollTop": 141,
+      "scrollLeft": 0,
+      "timestamp": 1752117401671
+    },
+    {
+      "time": 52783,
+      "type": "scroll",
+      "scrollTop": 160,
+      "scrollLeft": 0,
+      "timestamp": 1752117401688
+    },
+    {
+      "time": 52800,
+      "type": "scroll",
+      "scrollTop": 187,
+      "scrollLeft": 0,
+      "timestamp": 1752117401705
+    },
+    {
+      "time": 52817,
+      "type": "scroll",
+      "scrollTop": 209,
+      "scrollLeft": 0,
+      "timestamp": 1752117401722
+    },
+    {
+      "time": 52833,
+      "type": "scroll",
+      "scrollTop": 229,
+      "scrollLeft": 0,
+      "timestamp": 1752117401738
+    },
+    {
+      "time": 52849,
+      "type": "scroll",
+      "scrollTop": 248,
+      "scrollLeft": 0,
+      "timestamp": 1752117401754
+    },
+    {
+      "time": 52883,
+      "type": "scroll",
+      "scrollTop": 268,
+      "scrollLeft": 0,
+      "timestamp": 1752117401788
+    },
+    {
+      "time": 52900,
+      "type": "scroll",
+      "scrollTop": 283,
+      "scrollLeft": 0,
+      "timestamp": 1752117401805
+    },
+    {
+      "time": 52916,
+      "type": "scroll",
+      "scrollTop": 295,
+      "scrollLeft": 0,
+      "timestamp": 1752117401821
+    },
+    {
+      "time": 52933,
+      "type": "scroll",
+      "scrollTop": 305,
+      "scrollLeft": 0,
+      "timestamp": 1752117401838
+    },
+    {
+      "time": 52949,
+      "type": "scroll",
+      "scrollTop": 314,
+      "scrollLeft": 0,
+      "timestamp": 1752117401854
+    },
+    {
+      "time": 52970,
+      "type": "scroll",
+      "scrollTop": 322,
+      "scrollLeft": 0,
+      "timestamp": 1752117401875
+    },
+    {
+      "time": 52983,
+      "type": "scroll",
+      "scrollTop": 330,
+      "scrollLeft": 0,
+      "timestamp": 1752117401888
+    },
+    {
+      "time": 53001,
+      "type": "scroll",
+      "scrollTop": 337,
+      "scrollLeft": 0,
+      "timestamp": 1752117401906
+    },
+    {
+      "time": 53017,
+      "type": "scroll",
+      "scrollTop": 343,
+      "scrollLeft": 0,
+      "timestamp": 1752117401922
+    },
+    {
+      "time": 53034,
+      "type": "scroll",
+      "scrollTop": 349,
+      "scrollLeft": 0,
+      "timestamp": 1752117401939
+    },
+    {
+      "time": 53051,
+      "type": "scroll",
+      "scrollTop": 354,
+      "scrollLeft": 0,
+      "timestamp": 1752117401956
+    },
+    {
+      "time": 53067,
+      "type": "scroll",
+      "scrollTop": 359,
+      "scrollLeft": 0,
+      "timestamp": 1752117401972
+    },
+    {
+      "time": 53084,
+      "type": "scroll",
+      "scrollTop": 364,
+      "scrollLeft": 0,
+      "timestamp": 1752117401989
+    },
+    {
+      "time": 53100,
+      "type": "scroll",
+      "scrollTop": 369,
+      "scrollLeft": 0,
+      "timestamp": 1752117402005
+    },
+    {
+      "time": 53117,
+      "type": "scroll",
+      "scrollTop": 373,
+      "scrollLeft": 0,
+      "timestamp": 1752117402022
+    },
+    {
+      "time": 53134,
+      "type": "scroll",
+      "scrollTop": 377,
+      "scrollLeft": 0,
+      "timestamp": 1752117402039
+    },
+    {
+      "time": 53152,
+      "type": "scroll",
+      "scrollTop": 381,
+      "scrollLeft": 0,
+      "timestamp": 1752117402057
+    },
+    {
+      "time": 53167,
+      "type": "scroll",
+      "scrollTop": 385,
+      "scrollLeft": 0,
+      "timestamp": 1752117402072
+    },
+    {
+      "time": 53185,
+      "type": "scroll",
+      "scrollTop": 388,
+      "scrollLeft": 0,
+      "timestamp": 1752117402090
+    },
+    {
+      "time": 53217,
+      "type": "scroll",
+      "scrollTop": 389,
+      "scrollLeft": 0,
+      "timestamp": 1752117402122
+    },
+    {
+      "time": 53234,
+      "type": "scroll",
+      "scrollTop": 401,
+      "scrollLeft": 0,
+      "timestamp": 1752117402139
+    },
+    {
+      "time": 53250,
+      "type": "scroll",
+      "scrollTop": 411,
+      "scrollLeft": 0,
+      "timestamp": 1752117402155
+    },
+    {
+      "time": 53267,
+      "type": "scroll",
+      "scrollTop": 440,
+      "scrollLeft": 0,
+      "timestamp": 1752117402172
+    },
+    {
+      "time": 53300,
+      "type": "scroll",
+      "scrollTop": 462,
+      "scrollLeft": 0,
+      "timestamp": 1752117402205
+    },
+    {
+      "time": 53317,
+      "type": "scroll",
+      "scrollTop": 478,
+      "scrollLeft": 0,
+      "timestamp": 1752117402222
+    },
+    {
+      "time": 53334,
+      "type": "scroll",
+      "scrollTop": 492,
+      "scrollLeft": 0,
+      "timestamp": 1752117402239
+    },
+    {
+      "time": 53351,
+      "type": "scroll",
+      "scrollTop": 504,
+      "scrollLeft": 0,
+      "timestamp": 1752117402256
+    },
+    {
+      "time": 53367,
+      "type": "scroll",
+      "scrollTop": 514,
+      "scrollLeft": 0,
+      "timestamp": 1752117402272
+    },
+    {
+      "time": 53384,
+      "type": "scroll",
+      "scrollTop": 523,
+      "scrollLeft": 0,
+      "timestamp": 1752117402289
+    },
+    {
+      "time": 53400,
+      "type": "scroll",
+      "scrollTop": 531,
+      "scrollLeft": 0,
+      "timestamp": 1752117402305
+    },
+    {
+      "time": 53417,
+      "type": "scroll",
+      "scrollTop": 539,
+      "scrollLeft": 0,
+      "timestamp": 1752117402322
+    },
+    {
+      "time": 53433,
+      "type": "scroll",
+      "scrollTop": 546,
+      "scrollLeft": 0,
+      "timestamp": 1752117402338
+    },
+    {
+      "time": 53450,
+      "type": "scroll",
+      "scrollTop": 552,
+      "scrollLeft": 0,
+      "timestamp": 1752117402355
+    },
+    {
+      "time": 53467,
+      "type": "scroll",
+      "scrollTop": 558,
+      "scrollLeft": 0,
+      "timestamp": 1752117402372
+    },
+    {
+      "time": 53483,
+      "type": "scroll",
+      "scrollTop": 563,
+      "scrollLeft": 0,
+      "timestamp": 1752117402388
+    },
+    {
+      "time": 53500,
+      "type": "scroll",
+      "scrollTop": 568,
+      "scrollLeft": 0,
+      "timestamp": 1752117402405
+    },
+    {
+      "time": 53517,
+      "type": "scroll",
+      "scrollTop": 573,
+      "scrollLeft": 0,
+      "timestamp": 1752117402422
+    },
+    {
+      "time": 53534,
+      "type": "scroll",
+      "scrollTop": 578,
+      "scrollLeft": 0,
+      "timestamp": 1752117402439
+    },
+    {
+      "time": 53550,
+      "type": "scroll",
+      "scrollTop": 583,
+      "scrollLeft": 0,
+      "timestamp": 1752117402455
+    },
+    {
+      "time": 53567,
+      "type": "scroll",
+      "scrollTop": 587,
+      "scrollLeft": 0,
+      "timestamp": 1752117402472
+    },
+    {
+      "time": 53583,
+      "type": "scroll",
+      "scrollTop": 591,
+      "scrollLeft": 0,
+      "timestamp": 1752117402488
+    },
+    {
+      "time": 53600,
+      "type": "scroll",
+      "scrollTop": 595,
+      "scrollLeft": 0,
+      "timestamp": 1752117402505
+    },
+    {
+      "time": 53617,
+      "type": "scroll",
+      "scrollTop": 599,
+      "scrollLeft": 0,
+      "timestamp": 1752117402522
+    },
+    {
+      "time": 53634,
+      "type": "scroll",
+      "scrollTop": 603,
+      "scrollLeft": 0,
+      "timestamp": 1752117402539
+    },
+    {
+      "time": 53651,
+      "type": "scroll",
+      "scrollTop": 606,
+      "scrollLeft": 0,
+      "timestamp": 1752117402556
+    },
+    {
+      "time": 53667,
+      "type": "scroll",
+      "scrollTop": 609,
+      "scrollLeft": 0,
+      "timestamp": 1752117402572
+    },
+    {
+      "time": 54099,
+      "type": "scroll",
+      "scrollTop": 607,
+      "scrollLeft": 0,
+      "timestamp": 1752117403004
+    },
+    {
+      "time": 54116,
+      "type": "scroll",
+      "scrollTop": 599,
+      "scrollLeft": 0,
+      "timestamp": 1752117403021
+    },
+    {
+      "time": 54133,
+      "type": "scroll",
+      "scrollTop": 574,
+      "scrollLeft": 0,
+      "timestamp": 1752117403038
+    },
+    {
+      "time": 54150,
+      "type": "scroll",
+      "scrollTop": 557,
+      "scrollLeft": 0,
+      "timestamp": 1752117403055
+    },
+    {
+      "time": 54166,
+      "type": "scroll",
+      "scrollTop": 542,
+      "scrollLeft": 0,
+      "timestamp": 1752117403071
+    },
+    {
+      "time": 54183,
+      "type": "scroll",
+      "scrollTop": 524,
+      "scrollLeft": 0,
+      "timestamp": 1752117403088
+    },
+    {
+      "time": 54216,
+      "type": "scroll",
+      "scrollTop": 511,
+      "scrollLeft": 0,
+      "timestamp": 1752117403121
+    },
+    {
+      "time": 54233,
+      "type": "scroll",
+      "scrollTop": 502,
+      "scrollLeft": 0,
+      "timestamp": 1752117403138
+    },
+    {
+      "time": 54249,
+      "type": "scroll",
+      "scrollTop": 494,
+      "scrollLeft": 0,
+      "timestamp": 1752117403154
+    },
+    {
+      "time": 54266,
+      "type": "scroll",
+      "scrollTop": 488,
+      "scrollLeft": 0,
+      "timestamp": 1752117403171
+    },
+    {
+      "time": 54283,
+      "type": "scroll",
+      "scrollTop": 482,
+      "scrollLeft": 0,
+      "timestamp": 1752117403188
+    },
+    {
+      "time": 54299,
+      "type": "scroll",
+      "scrollTop": 477,
+      "scrollLeft": 0,
+      "timestamp": 1752117403204
+    },
+    {
+      "time": 54316,
+      "type": "scroll",
+      "scrollTop": 472,
+      "scrollLeft": 0,
+      "timestamp": 1752117403221
+    },
+    {
+      "time": 54333,
+      "type": "scroll",
+      "scrollTop": 468,
+      "scrollLeft": 0,
+      "timestamp": 1752117403238
+    },
+    {
+      "time": 54349,
+      "type": "scroll",
+      "scrollTop": 464,
+      "scrollLeft": 0,
+      "timestamp": 1752117403254
+    },
+    {
+      "time": 54366,
+      "type": "scroll",
+      "scrollTop": 461,
+      "scrollLeft": 0,
+      "timestamp": 1752117403271
+    },
+    {
+      "time": 54383,
+      "type": "scroll",
+      "scrollTop": 458,
+      "scrollLeft": 0,
+      "timestamp": 1752117403288
+    },
+    {
+      "time": 54399,
+      "type": "scroll",
+      "scrollTop": 455,
+      "scrollLeft": 0,
+      "timestamp": 1752117403304
+    },
+    {
+      "time": 54417,
+      "type": "scroll",
+      "scrollTop": 452,
+      "scrollLeft": 0,
+      "timestamp": 1752117403322
+    },
+    {
+      "time": 54433,
+      "type": "scroll",
+      "scrollTop": 449,
+      "scrollLeft": 0,
+      "timestamp": 1752117403338
+    },
+    {
+      "time": 54449,
+      "type": "scroll",
+      "scrollTop": 446,
+      "scrollLeft": 0,
+      "timestamp": 1752117403354
+    },
+    {
+      "time": 54466,
+      "type": "scroll",
+      "scrollTop": 444,
+      "scrollLeft": 0,
+      "timestamp": 1752117403371
+    },
+    {
+      "time": 54483,
+      "type": "scroll",
+      "scrollTop": 442,
+      "scrollLeft": 0,
+      "timestamp": 1752117403388
+    },
+    {
+      "time": 54500,
+      "type": "scroll",
+      "scrollTop": 440,
+      "scrollLeft": 0,
+      "timestamp": 1752117403405
+    },
+    {
+      "time": 55454,
+      "type": "scroll",
+      "scrollTop": 398,
+      "scrollLeft": 0,
+      "timestamp": 1752117404359
+    },
+    {
+      "time": 55455,
+      "type": "zoom",
+      "fontSize": 20,
+      "timestamp": 1752117404360
+    },
+    {
+      "time": 55465,
+      "type": "scroll",
+      "scrollTop": 398,
+      "scrollLeft": 0,
+      "timestamp": 1752117404370
+    },
+    {
+      "time": 55667,
+      "type": "scroll",
+      "scrollTop": 356,
+      "scrollLeft": 0,
+      "timestamp": 1752117404572
+    },
+    {
+      "time": 55668,
+      "type": "zoom",
+      "fontSize": 18,
+      "timestamp": 1752117404573
+    },
+    {
+      "time": 56331,
+      "type": "scroll",
+      "scrollTop": 354,
+      "scrollLeft": 0,
+      "timestamp": 1752117405236
+    },
+    {
+      "time": 56365,
+      "type": "scroll",
+      "scrollTop": 322,
+      "scrollLeft": 0,
+      "timestamp": 1752117405270
+    },
+    {
+      "time": 56382,
+      "type": "scroll",
+      "scrollTop": 294,
+      "scrollLeft": 0,
+      "timestamp": 1752117405287
+    },
+    {
+      "time": 56399,
+      "type": "scroll",
+      "scrollTop": 261,
+      "scrollLeft": 0,
+      "timestamp": 1752117405304
+    },
+    {
+      "time": 56400,
+      "type": "scroll",
+      "scrollTop": 261,
+      "scrollLeft": 0,
+      "timestamp": 1752117405305
+    },
+    {
+      "time": 56415,
+      "type": "scroll",
+      "scrollTop": 236,
+      "scrollLeft": 0,
+      "timestamp": 1752117405320
+    },
+    {
+      "time": 56448,
+      "type": "scroll",
+      "scrollTop": 212,
+      "scrollLeft": 0,
+      "timestamp": 1752117405353
+    },
+    {
+      "time": 56465,
+      "type": "scroll",
+      "scrollTop": 194,
+      "scrollLeft": 0,
+      "timestamp": 1752117405370
+    },
+    {
+      "time": 56482,
+      "type": "scroll",
+      "scrollTop": 179,
+      "scrollLeft": 0,
+      "timestamp": 1752117405387
+    },
+    {
+      "time": 56499,
+      "type": "scroll",
+      "scrollTop": 166,
+      "scrollLeft": 0,
+      "timestamp": 1752117405404
+    },
+    {
+      "time": 56515,
+      "type": "scroll",
+      "scrollTop": 154,
+      "scrollLeft": 0,
+      "timestamp": 1752117405420
+    },
+    {
+      "time": 56532,
+      "type": "scroll",
+      "scrollTop": 144,
+      "scrollLeft": 0,
+      "timestamp": 1752117405437
+    },
+    {
+      "time": 56549,
+      "type": "scroll",
+      "scrollTop": 135,
+      "scrollLeft": 0,
+      "timestamp": 1752117405454
+    },
+    {
+      "time": 56565,
+      "type": "scroll",
+      "scrollTop": 126,
+      "scrollLeft": 0,
+      "timestamp": 1752117405470
+    },
+    {
+      "time": 56582,
+      "type": "scroll",
+      "scrollTop": 118,
+      "scrollLeft": 0,
+      "timestamp": 1752117405487
+    },
+    {
+      "time": 56599,
+      "type": "scroll",
+      "scrollTop": 110,
+      "scrollLeft": 0,
+      "timestamp": 1752117405504
+    },
+    {
+      "time": 56615,
+      "type": "scroll",
+      "scrollTop": 103,
+      "scrollLeft": 0,
+      "timestamp": 1752117405520
+    },
+    {
+      "time": 56632,
+      "type": "scroll",
+      "scrollTop": 96,
+      "scrollLeft": 0,
+      "timestamp": 1752117405537
+    },
+    {
+      "time": 56649,
+      "type": "scroll",
+      "scrollTop": 90,
+      "scrollLeft": 0,
+      "timestamp": 1752117405554
+    },
+    {
+      "time": 56665,
+      "type": "scroll",
+      "scrollTop": 84,
+      "scrollLeft": 0,
+      "timestamp": 1752117405570
+    },
+    {
+      "time": 56682,
+      "type": "scroll",
+      "scrollTop": 79,
+      "scrollLeft": 0,
+      "timestamp": 1752117405587
+    },
+    {
+      "time": 56699,
+      "type": "scroll",
+      "scrollTop": 74,
+      "scrollLeft": 0,
+      "timestamp": 1752117405604
+    },
+    {
+      "time": 56715,
+      "type": "scroll",
+      "scrollTop": 69,
+      "scrollLeft": 0,
+      "timestamp": 1752117405620
+    },
+    {
+      "time": 56732,
+      "type": "scroll",
+      "scrollTop": 64,
+      "scrollLeft": 0,
+      "timestamp": 1752117405637
+    },
+    {
+      "time": 56749,
+      "type": "scroll",
+      "scrollTop": 59,
+      "scrollLeft": 0,
+      "timestamp": 1752117405654
+    },
+    {
+      "time": 56765,
+      "type": "scroll",
+      "scrollTop": 55,
+      "scrollLeft": 0,
+      "timestamp": 1752117405670
+    },
+    {
+      "time": 56782,
+      "type": "scroll",
+      "scrollTop": 51,
+      "scrollLeft": 0,
+      "timestamp": 1752117405687
+    },
+    {
+      "time": 56799,
+      "type": "scroll",
+      "scrollTop": 47,
+      "scrollLeft": 0,
+      "timestamp": 1752117405704
+    },
+    {
+      "time": 56815,
+      "type": "scroll",
+      "scrollTop": 43,
+      "scrollLeft": 0,
+      "timestamp": 1752117405720
+    },
+    {
+      "time": 56832,
+      "type": "scroll",
+      "scrollTop": 39,
+      "scrollLeft": 0,
+      "timestamp": 1752117405737
+    },
+    {
+      "time": 56849,
+      "type": "scroll",
+      "scrollTop": 36,
+      "scrollLeft": 0,
+      "timestamp": 1752117405754
+    },
+    {
+      "time": 56865,
+      "type": "scroll",
+      "scrollTop": 33,
+      "scrollLeft": 0,
+      "timestamp": 1752117405770
+    },
+    {
+      "time": 56882,
+      "type": "scroll",
+      "scrollTop": 30,
+      "scrollLeft": 0,
+      "timestamp": 1752117405787
+    },
+    {
+      "time": 56898,
+      "type": "scroll",
+      "scrollTop": 27,
+      "scrollLeft": 0,
+      "timestamp": 1752117405803
+    },
+    {
+      "time": 57899,
+      "type": "run",
+      "code": "// Example: Try this code that takes inputs\n// Fill the input box with: Santhosh 25 Developer\n// Or put each input on a new line\n\nlet name = input(); // Will get \"Santhosh\"\nlet age = input();  // Will get \"25\"\nlet job = input();  // Will get \"Developer\"\n\nconsole.log(\"Name:\", name);\nconsole.log(\"Age:\", age);\nconsole.log(\"Job:\", job);\nconsole.log(\"Hello \" + name + \"! You are \" + age + \" years old and work as a \" + job);\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst workingScroll = \"Yes\";\nconsole.log(workingScroll);",
+      "cursor": {
+        "line": 26,
+        "ch": 27
+      },
+      "input": "Santhosh 22 Developer",
+      "output": "> Input #1: Santhosh\n> Input #2: 22\n> Input #3: Developer\nName: Santhosh\nAge: 22\nJob: Developer\nHello Santhosh! You are 22 years old and work as a Developer\nYes",
+      "runExecuted": true,
+      "timestamp": 1752117406804
+    }
+  ],
+  "totalEvents": 462,
+  "duration": 57899,
+  "recordedAt": "2025-07-10T03:16:49.725Z"
+}

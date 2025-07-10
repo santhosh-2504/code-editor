@@ -5,7 +5,10 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
   const containerRef = useRef(null);
   const editorRef = useRef(null);
   const [fontSize, setFontSize] = useState(14);
-  
+
+  const viewerScrollRef = useRef(false); // NEW
+  const scrollTimeoutRef = useRef(null); // NEW
+
   const stateRef = useRef({
     isEditMode,
     enterEditMode,
@@ -22,21 +25,22 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
   useEffect(() => {
     if (containerRef.current && !editorRef.current) {
       editorRef.current = monaco.editor.create(containerRef.current, {
-        value: starterCode || "",
-        language: "javascript",
-        theme: "vs-dark",
+        value: starterCode || '',
+        language: 'javascript',
+        theme: 'vs-dark',
         fontSize: fontSize,
         readOnly: !isEditMode,
         minimap: { enabled: false },
         automaticLayout: true,
       });
-      
+
+      // Detect edit mode triggers
       editorRef.current.onKeyDown(() => {
         if (!stateRef.current.isEditMode) {
           stateRef.current.enterEditMode();
         }
       });
-      
+
       editorRef.current.onMouseDown(() => {
         if (!stateRef.current.isEditMode) {
           setTimeout(() => {
@@ -44,15 +48,26 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
           }, 100);
         }
       });
+
+      // Track viewer scroll activity (NEW)
+      editorRef.current.onDidScrollChange(() => {
+        viewerScrollRef.current = true;
+        clearTimeout(scrollTimeoutRef.current);
+
+        scrollTimeoutRef.current = setTimeout(() => {
+          viewerScrollRef.current = false;
+        }, 3000); // 3s of inactivity = resume auto-scroll
+      });
     }
-    
+
     return () => {
       if (editorRef.current) {
         editorRef.current.dispose();
         editorRef.current = null;
       }
+      clearTimeout(scrollTimeoutRef.current); // Cleanup
     };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [starterCode]);
 
   // Update editor readonly state
@@ -67,7 +82,7 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
     setFontSize(newSize);
     editorRef.current?.updateOptions({ fontSize: newSize });
   };
-  
+
   const zoomOut = () => {
     const newSize = Math.max(10, fontSize - 2);
     setFontSize(newSize);
@@ -76,7 +91,7 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
 
   const resetEditor = (starterCode) => {
     if (editorRef.current) {
-      editorRef.current.setValue(starterCode || "");
+      editorRef.current.setValue(starterCode || '');
     }
   };
 
@@ -86,6 +101,7 @@ export const useMonacoEditor = (starterCode, isEditMode, enterEditMode) => {
     fontSize,
     zoomIn,
     zoomOut,
-    resetEditor
+    resetEditor,
+    viewerScrollRef, // NEW: expose to InteractivePlayer.jsx
   };
 };

@@ -1,8 +1,8 @@
 export const StatusIndicator = ({ 
   isEditMode, 
   editModeEntryIndex, 
-  isPlaying, 
-  currentIndex, 
+  // isPlaying, 
+  // currentIndex, 
   events 
 }) => {
   const getModeIndicator = () => {
@@ -27,27 +27,27 @@ export const StatusIndicator = ({
     }
   };
 
-  const getStatusText = () => {
-    if (isEditMode) {
-      return `Make your changes and test with the Run button`;
-    } else if (isPlaying) {
-      return `Playing event ${currentIndex + 1} of ${events.length}`;
-    } else {
-      return `Paused at event ${currentIndex} of ${events.length}`;
-    }
-  };
+  // const getStatusText = () => {
+  //   if (isEditMode) {
+  //     return `Make your changes and test with the Run button`;
+  //   } else if (isPlaying) {
+  //     return `Playing event ${currentIndex + 1} of ${events.length}`;
+  //   } else {
+  //     return `Paused at event ${currentIndex} of ${events.length}`;
+  //   }
+  // };
 
-  const getProgressBar = () => {
-    const progress = events.length > 0 ? (currentIndex / events.length) * 100 : 0;
-    return (
-      <div className="w-full bg-gray-700 rounded-full h-1 overflow-hidden">
-        <div 
-          className="h-full bg-gradient-to-r from-blue-500 to-purple-500 transition-all duration-300"
-          style={{ width: `${progress}%` }}
-        />
-      </div>
-    );
-  };
+  // const getProgressBar = () => {
+  //   const progress = events.length > 0 ? (currentIndex / events.length) * 100 : 0;
+  //   return (
+  //     <div className="w-full bg-gray-700 rounded-full h-1 overflow-hidden">
+  //       <div 
+  //         className="h-full bg-gradient-to-r from-blue-500 to-purple-500 transition-all duration-300"
+  //         style={{ width: `${progress}%` }}
+  //       />
+  //     </div>
+  //   );
+  // };
 
   return (
     <div className="space-y-3">
@@ -55,23 +55,23 @@ export const StatusIndicator = ({
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-4">
           {getModeIndicator()}
-          <div className="text-gray-400 text-sm">
+          {/* <div className="text-gray-400 text-sm">
             {getStatusText()}
-          </div>
+          </div> */}
         </div>
         
-        <div className="flex items-center space-x-2 text-xs text-gray-500">
+        {/* <div className="flex items-center space-x-2 text-xs text-gray-500">
           <span>{currentIndex}</span>
           <span>/</span>
           <span>{events.length}</span>
           <span>events</span>
-        </div>
+        </div> */}
       </div>
 
       {/* Progress Bar */}
-      <div className="space-y-1">
+      {/* <div className="space-y-1">
         {getProgressBar()}
-      </div>
+      </div> */}
     </div>
   );
 };
